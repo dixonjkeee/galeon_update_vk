@@ -1,0 +1,1843 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-11-18 23:46">
+  <shop>
+    <name>Галеон Авто</name>
+    <company>Галеон Авто</company>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Автомобили с пробегом</category>
+    </categories>
+    <offers>
+      <offer id="WBA5V51010FH32184" available="true">
+        <name>BMW 3 серии 2019 г. (серый)</name>
+        <description>Год выпуска: 2019
+Пробег: 180 187 км
+Двигатель: 2 л, 190 л.с., Дизель
+КПП: АКПП
+Привод: Задний
+Кузов: Седан
+Цвет: Серый
+Владельцев по ПТС: 1
+VIN: WBA5V51010FH32184
+
+ПРЕМИАЛЬНЫЙ СЕДАН С УДАЧНЫМ СОЧЕТАНИЕМ ДИНАМИКИ И ФИРМЕННОЙ ЭРГОНОМИКИ BMW.
+
+НЕМЕЦКАЯ СБОРКА!
+
+НАДЁЖНЫЙ ЭКОНОМИЧНЫЙ ДИЗЕЛЬНЫЙ ДВИГАТЕЛЬ В47, С ДОНАЛОГОВОЙ МОЩНОСТЬЮ 190 л.с.!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ, 8-ст АВТОМАТ!
+
+КОМПЛЕКТАЦИЯ С М-ПАКЕТОМ, КОМБИНИРОВАННЫМ САЛОНОМ, ЧЁРНЫМ ПОТОЛКОМ, ПОДОГРЕВОМ РУЛЯ, 3-Х ЗОННЫМ КЛИМАТОМ, ЛИТЫМИ ДИСКАМИ R19 и т.д.
+
+АВТОМОБИЛЬ ДИЛЕРСКИЙ!
+
+ОДИН ВЛАДЕЛЕЦ, ПТС ОРИГИНАЛ!
+
+РОДНОЙ ПРОБЕГ!
+
+ТРЕПЕТНОЕ ОТНОШЕНИЕ К АВТОМОБИЛЮ!
+
+КУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ, ПЕРЕДНЯЯ ЧАСТЬ В БРОНЕПЛЁНКЕ!
+
+САЛОН КРАЙНЕ ОПРЯТНЫЙ, ЦЕЛЫЙ, НЕ ПРОКУРЕН, БЕЗ ЦАРАПИН!
+
+СВОЕВРЕМЕННОЕ ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ!
+
+ЕСТЬ СЕРВИСНАЯ ИСТОРИЯ В ВИДЕ ЗАКАЗ-НАРЯДОВ!
+
+ПОЛНАЯ КОМПЛЕКТНОСТЬ: 2 КЛЮЧА, РУКОВОДСТВО ПО ЭКСПЛУАТАЦИИ, ЗНАК АВАРИЙНОЙ ОСТАНОВКИ, АПТЕЧКА.
+
+ДОПОЛНИТЕЛЬНО УСТАНОВЛЕНО:
+
++ Иммобилайзер
+
++ Секретные гайки колёс
+
++ Тонировка задних стёкол
+
++ Керамика кузова
+
++ Коврик багажника.
+
+Есть действующая диагностическая карта до 2028г.
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана за наличный расчет.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование.
+
+7. ✅Комиссия.
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>2800000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/9tpN7VzqINkIoysmpa_CDfLJPiEQO8tuyyasajLB5p0/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzU1NDI2MS9iMmQzNjQ5MjJhYzM0NTRlZTkyMzY4NGExNTY2ZWQ1NS5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/hvnBjeH3dh9DuZ_jN34GXnb9zBvBUaUa6AJn3bvrTtQ/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzU1NDI2Mi8zZGFlYzk4MWVlZTljYWQ0ZDE2MmViYTllYjk3MzIzZS5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/Hw6r297YXPL3kOZKRNKzAtDRGHkM1I7stdNuWNo-8LE/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzU1NDI2My9jYjY3NWRmY2NiYTEyMGJkMWM3YTE5MWQwODU5OTI5Mi5qcGc.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">180187</param>
+      </offer>
+      <offer id="XW8ZZZ5NZMG013222" available="true">
+        <name>Volkswagen Tiguan 2021 г. (белый)</name>
+        <description>Год выпуска: 2021
+Пробег: 185 361 км
+Двигатель: 2 л, 220 л.с., Бензин
+КПП: Робот
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Белый
+Владельцев по ПТС: 1
+VIN: XW8ZZZ5NZMG013222
+
+СОВРЕМЕННЫЙ ГОРОДСКОЙ КРОССОВЕР Volkswagen Tiguan!
+
+БЕНЗИНОВЫЙ ДВИГАТЕЛЬ МОЩНОСТЬЮ 220 л.с!
+
+ПОЛНЫЙ ПРИВОД С ВЫБОРОМ РЕЖИМОВ ЭКСПЛУАТАЦИИ!
+
+МАКСИМАЛЬНАЯ КОМПЛЕКТАЦИЯ R-Line: бесключевой доступ, кнопка START-STOP, кожаный салон, электрорегулировка передних сидений с памятью, 3-х зонный климат-контроль, адаптивный круиз-контроль, подогрев всех сидений, подогрев лобового по всей поверхности, штатная мультимедиа с большим монитором, навигацией, громкой связью, камеры кругового обзора, датчики парковки перед/зад, система помощи при парковке, система отслеживания слепых зон, адаптивная LED оптика, инвертор на 220V, электропривод крышки багажника, литые диски R19 и т.д.
+
+АВТОМОБИЛЬ ДИЛЕРСКИЙ!
+
+ОДИН ВЛАДЕЛЕЦ!
+
+ЧЕСТНЫЙ ПРОБЕГ!
+
+СВОЕВРЕМЕННОЕ ОБСЛУЖИВАНИЕ!
+
+КУЗОВ В ЗАВОДСКОМ ОКРАСЕ!!!
+
+ЗЕЛЁНАЯ ИСТОРИЯ АВТО:
+
+БЕЗ ДТП, БЕЗ СТРАХОВЫХ ВЫПЛАТ, БЕЗ ПОДСЧЁТОВ КУЗОВНЫХ РАБОТ!
+
+ПОЛНАЯ КОМПЛЕКТНОСТЬ: 2 ключа зажигания, руководство по эксплуатации, полка багажника, запасное колесо, домкрат, инструменты.
+
+ДОПОЛНИТЕЛЬНО УСТАНОВЛЕНО:
+
++ Композитная защита моторного отсека
+
++ Защитная сетка решетки радиатора
+
++ Коврики салона резина/текстиль
+
++ Коврик багажника
+
++ Фирменный набор автомобилиста.
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>3100000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/S8BbkGD5EvWr-hVxX_gAlij2gZZJa1aSGD6GhOcm9TI/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNDE1Nzk2Ni83YzZiOWQ0NjE1NTU1NDAyMjZiNGQ1Mjc1OTIwZmJhMC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/RPICjk44WzWQ1GQyM0ub9w4PYdq8PcS3MMm0Aku85NM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNDE1Nzk2Ny9jOGQzNDUzMjM4OTdkNWNhZTJmZWNiODlmNDAyOWQ2ZC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/LY9XJCcG0-f67u11jR52FNR7Zi4h9iY3QSt_dHV5BG4/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNDE1Nzk2OC81NjM5ZTgyNDM5MTNiNTE4NjBlYTdiNzA1M2VjYzI3Ny5qcGc.jpg</picture>
+        <param name="Год выпуска">2021</param>
+        <param name="Пробег, км">185361</param>
+      </offer>
+      <offer id="SALWA2BK4JA190794" available="true">
+        <name>Land Rover Range Rover Sport 2018 г. (коричневый)</name>
+        <description>Год выпуска: 2018
+Пробег: 175 258 км
+Двигатель: 3 л, 249 л.с., Дизель
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Коричневый
+VIN: SALWA2BK4JA190794
+
+БРИТАНСКИЙ ПОЛНОПРИВОДНЫЙ ВНЕДОРОЖНИК ПРЕМИУМ КЛАССА!
+
+РЕСТАЙЛИНГОВЫЙ КУЗОВ!
+
+ЭКОНОМИЧНЫЙ ДИЗЕЛЬНЫЙ ДВИГАТЕЛЬ С ДОНАЛОГОВОЙ МОЩНОСТЬЮ 249 л.с!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ 8-ми ступенчатый АВТОМАТ!
+
+РЕГУЛИРУЕМАЯ ПНЕВМОПОДВЕСКА!
+
+КОМПЛЕКТАЦИЯ SE, с панорамой и стационарными порогами.
+
+ТРИ ВЛАДЕЛЬЦА.
+
+ОРИГИНАЛЬНЫЙ ПРОБЕГ!
+
+КУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ!
+
+СОГЛАСНО ИНСТРУМЕНТАЛЬНОГО ОСМОТРА, БЕЗ ВТОРИЧНЫХ ОКРАСОВ!
+
+ПЕРЕДНЯЯ ЧАСТЬ АВТО В БРОНЕПЛЕНКЕ!
+
+ТЕХНИКА БЕЗ НАРЕКАНИЙ, ВСЁ РАБОТАЕТ КАК ПОЛОЖЕНО!
+
+ПОЛНЫЙ НАБОР КЛЮЧЕЙ ЗАЖИГАНИЯ, 2шт!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>4300000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/MEDwPOZ4E356lrrDBzcxwnX1UDfDK0vGKsILekjNQbM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1ODYxMC83NmZhMGE3M2FiYjVjNTY1ZmU1MDQ4NzMwODQ3MTA2OS5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/fbpTj1DMBUhUvYb8LhlrnmkBfbauXzXGd1QL_VShiyM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1ODYxMS9iNTQwN2QyZTU5MzI0NzUyNmFiYmU1ZGI4YjQyMTMwMC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/XwjyG_l2vAc_ZG7-e9rkWdiWfCliW0ixJLdK1McKkjc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1ODYxMi85MDE2NDZkYTQzYWFmMjRmOThhNjYyYTc3Y2M1NTczMi5qcGc.jpg</picture>
+        <param name="Год выпуска">2018</param>
+        <param name="Пробег, км">175258</param>
+      </offer>
+      <offer id="MMBJJLC10SH049615" available="true">
+        <name>Mitsubishi L200 2025 г. (белый)</name>
+        <description>Год выпуска: 2025
+Пробег: 49 км
+Двигатель: 2.4 л, 150 л.с., Дизель
+КПП: МКПП
+Привод: Полный
+Кузов: Пикап Двойная кабина
+Цвет: Белый
+VIN: MMBJJLC10SH049615
+
+АБСОЛЮТНО НОВЫЙ MITSUBISHI L200 6-го ПОКОЛЕНИЯ В НАЛИЧИИ В МОСКВЕ!
+
+ВЫ БУДЕТЕ ПЕРВЫМ ВЛАДЕЛЬЦЕМ!
+
+Параллельный импорт из ОАЭ.
+
+ОПЛАЧЕН КОММЕРЧЕСКИЙ УТИЛЬСБОР!
+
+ВОЗМОЖНА ПРОДАЖА НА ОРГАНИЗАЦИЮ С НДС, СТОИМОСТЬ 6 200 000р!
+
+ТЯГОВИТЫЙ ДИЗЕЛЬНЫЙ ДВИГАТЕЛЬ С ДОНАЛОГОВОЙ МОЩНОСТЬЮ 150 л.с!
+
+КОРОБКА ПЕРЕДАЧ - 6-ст МКПП!
+
+ПОДКЛЮЧАЕМЫЙ ПОЛНЫЙ ПРИВОД!
+
+АНГЛОЯЗЫЧНОЕ МЕНЮ.
+
+ДВА КЛЮЧА ЗАЖИГАНИЯ.
+
+КОМПЛЕКТАЦИЯ:
+
+Кожаный мультируль
+
+Кондиционер
+
+Круиз-контроль
+
+Штатное мультимедийное устройство
+
+Камера заднего вида
+
+Блокировка заднего дифференциала
+
+Электрорегулировка зеркал
+
+Электро-стеклоподъёмники
+
+Противотуманные фары
+
+Пороги-площадки
+
+Литые диски R16, и т.д.
+
+ДОПОЛНИТЕЛЬНО УСТАНОВЛЕНО:
+
+Пластиковый вкладыш в кузов
+
+Сотовые коврики салона.
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>4949998</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/a2yIztC3UMvt2OsZnYL_uFvIXY_FDwgeVjiT6s9U8Sk/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTcxMDU1L2MwM2U0YjI4YzdhYmFhYTRkYWU1ZWE3ZDAyMTUwMTc4LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/pfYCuyhPouOBd0Qip3CnzjeVu7U-k3dXCTjasfU8hEE/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTcxMDU2LzkyNTZjMDI2NTg3NmY0ZGI0M2NkNjE1NGI2NjQ5MWUwLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/5OrOjsQwgYu4a0l6dK5-ZmsIUt3GfCfh9SjUHLf1pZw/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTcxMDU3Lzc3ZTFmODRkZGUwNTQzNjUwZTUwZDdlMGJlOTJlYmE0LmpwZw.jpg</picture>
+        <param name="Год выпуска">2025</param>
+        <param name="Пробег, км">49</param>
+      </offer>
+      <offer id="SALGA2BK9KA535260" available="true">
+        <name>Land Rover Range Rover 2018 г. (красный)</name>
+        <description>Год выпуска: 2018
+Пробег: 134 789 км
+Двигатель: 3 л, 249 л.с., Дизель
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Красный
+Владельцев по ПТС: 2
+VIN: SALGA2BK9KA535260
+
+БРИТАНСКИЙ ПОЛНОПРИВОДНЫЙ ВНЕДОРОЖНИК ПРЕМИУМ КЛАССА!
+
+ПТС ОРИГИНАЛ!
+
+ПРИОБРЕТАЛСЯ У ДИЛЕРА!
+
+ВЫСОКИЙ УРОВЕНЬ СОХРАННОСТИ, БЕРЕЖНАЯ ЭКСПЛУАТАЦИЯ!
+
+ПОДТВЕРЖДЁННЫЙ ПРОБЕГ!
+
+КУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ!
+
+ОТЛИЧНОЕ ТЕХНИЧЕСКОЕ СОСТОЯНИЕ!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>5200000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/LeIUv_I4ZC0ssje-GnADKpR4gMWII0bW2B3773KabIA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4Mjc5OS9lNGVhMjA0YjFmMDdmZTQ4YzIyN2RlMjc1NjMxMDc2Zi5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/L5veMPKXp_RIBvvlwdzh_pDEvFrUnmy2gLm8aVmYTnY/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4MjgwMC8wMjZhM2E4MGU1YTQ4ZjBmNDBjMDUxN2MyZWM2Y2Q0Mi5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/Cq4Bc9mNjvMgma2VH8FmU1gutN-LnaSPdlJf7Yd7IKU/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4MjgwMS84ZjJiOWJlMThkZTQ3ZGRmYTk4NTc0OGJiNmE1OTc4MS5qcGc.jpg</picture>
+        <param name="Год выпуска">2018</param>
+        <param name="Пробег, км">134789</param>
+      </offer>
+      <offer id="SALRA2BK4L2439427" available="true">
+        <name>Land Rover Discovery 2020 г. (оранжевый)</name>
+        <description>Год выпуска: 2020
+Пробег: 69 364 км
+Двигатель: 3 л, 249 л.с., Дизель
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Оранжевый
+VIN: SALRA2BK4L2439427
+
+БРИТАНСКИЙ ВНЕДОРОЖНИК ПРЕМИУМ КЛАССА DISCOVERY 5-го ПОКОЛЕНИЯ!
+
+ДОНАЛОГОВЫЙ ТУРБОДИЗЕЛЬ 249 л.с!
+
+Коробка передач - КЛАССИЧЕСКИЙ 8-ми ступенчатый АВТОМАТ!
+
+ПОЛНЫЙ ПРИВОД НА РЕГУЛИРУЕМОЙ ПНЕВМОПОДВЕСКЕ!
+
+Автомобиль ДИЛЕРСКИЙ!
+
+ЭКСПЛУАТАЦИЯ С ФЕВРАЛЯ 2021 ГОДА!
+
+По факту ТРИ ВЛАДЕЛЬЦА!
+
+Приобретался и эксплуатировался в Красноярском крае.
+
+ПОДТВЕРЖДЁННЫЙ ПРОБЕГ, всего 69 364 км.
+
+КУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ, ВЕСЬ В ЗАВОДСКОМ ОКРАСЕ!
+
+В ДТП НЕ УЧАСТВОВАЛА!
+
+САЛОН УХОЖЕННЫЙ, чистый, не прокурен!
+
+ТОЛЬКО ДИЛЕРСКОЕ ОБСЛУЖИВАНИЕ! ЕСТЬ СЕРВИСНАЯ КНИЖКА!
+
+В КОМПЛЕКТАЦИИ есть многое: БЕСКЛЮЧЕВОЙ ДОСТУП, кнопка START-STOP, ЭЛЕКТРО-РЕГУЛИРОВКИ ПЕРЕДНИХ СИДЕНИЙ, ПОДОГРЕВ ВСЕХ сидений, кожаный мультируль с подогревом, мультимедиа Meridian с сенсорным экраном, громкой связью Bluetooth, USB, AUX, КАМЕРА ЗАДНЕГО ВИДА, двух-зонный климат-контроль, круиз-контроль, ХОЛОДИЛЬНИК В ПОДЛОКОТНИКЕ, электрообогрев лобового стекла по ВСЕЙ ПОВЕРХНОСТИ, датчики парковки перед/зад, ПРОЕКЦИЯ, датчики света и дождя, СВЕТОДИОДНЫЕ ГОЛОВНОЕ ОСВЕЩЕНИЕ, ХОДОВЫЕ ОГНИ, омыватели фар, предпусковой подогреватель Webasto с ПУЛЬТОМ ДИСТАНЦИОННОГО УПРАВЛЕНИЯ, ФАРКОП С ЭЛЕКТРОПРИВОДОМ, стационарные пороги-площадки, литые диски R20 и т.д.
+
+ПОЛНАЯ КОМПЛЕКТНОСТЬ: 2 КЛЮЧА ЗАЖИГАНИЯ, шторка багажника, запасное колесо, домкрат, штатный инструмент.
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>5200000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/R3DnskJWCvJAEcw2IySsD-5C0_pw3CExSOOQcv4v3do/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTY5NzA2L2E3NTg2YmU3MjcwODA4ZWYwYjg1ZjI5ZWZhNmM3NTc4LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/kG9og-DnpqnxHBqypHtq7SsSK8IBdx85dRk4UtH4XZM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTY5NzA3LzE4ZjgzNzE5MTlkNWI4ZDgxM2EzNmQ1NGZlNmRmYmRlLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/n56WtABHacvM95LCTsiMG6DFwsCHbbY2y7cHfeiz3js/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTY5NzA4LzhjOGYxZDIyN2FjNTlmMTE5MjY1YzBiNGEyZWE0MDVjLmpwZw.jpg</picture>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег, км">69364</param>
+      </offer>
+      <offer id="WDC1668561B235718" available="true">
+        <name>Mercedes-Benz GLS 2019 г. (черный)</name>
+        <description>Год выпуска: 2019
+Пробег: 113 184 км
+Двигатель: 3 л, 333 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Черный
+Владельцев по ПТС: 1
+VIN: WDC1668561B235718
+
+АВТОМОБИЛЬ ПРИОБРЕТАЛСЯ У ОФИЦИАЛЬНОГО ДИЛЕРА!
+
+ОДИН ВЛАДЕЛЕЦ!
+
+ОРИГИНАЛ ПТС!
+
+КУЗОВ В ЗАВОДСКОМ ОКРАСЕ!
+
+ПРЕКРАСНОЕ ТЕХНИЧЕСКОЕ И ЭСТЕТИЧЕСКОЕ СОСТОЯНИЕ!
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование.
+
+7. ✅Комиссия.
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>5200000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/ef1NQGt7XTpkeDyIlZDIQVU2SmIZfblLphqdbS3K4Bo/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MzA3MzEzLzYyOGRhZjg0ODc4OTZhZTQxMjQxYTI1MzFkNTdlOTg3LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/gmHMDIgq6iqYW4CbcghyU69ibmdz_fiQ4m3mgI5dl0Y/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MzA3MzE0LzUwOWYxYmE1MWViMDBkOTc1Y2ZhMTJmODNlOGY4MDI0LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/ju9evZ96DtGl-K4FThODqyQs2adFXorWW7UR8fRDb2w/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MzA3MzE1LzQxZGI3ODNhMmQ5MjNlNGE2ZjlhODU0YmYwYTkyNDdjLmpwZw.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">113184</param>
+      </offer>
+      <offer id="SALWA2BJ3KA816991" available="true">
+        <name>Land Rover Range Rover Sport 2018 г. (черный)</name>
+        <description>Год выпуска: 2018
+Пробег: 147 566 км
+Двигатель: 4.4 л, 339 л.с., Дизель
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Черный
+Владельцев по ПТС: 3
+VIN: SALWA2BJ3KA816991
+
+БРИТАНСКИЙ ВНЕДОРОЖНИК ПРЕМИУМ КЛАССА RANGE ROVER SPORT!
+
+РЕСТАЙЛИНГОВЫЙ КУЗОВ!
+
+НАДЕЖНЫЙ ДИЗЕЛЬНЫЙ ДВИГАТЕЛЬ 4.4л, мощностью 340 л.с!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ 8-ми ступенчатый АВТОМАТ!
+
+ПОЛНЫЙ ПРИВОД НА РЕГУЛИРУЕМОЙ ПНЕВМОПОДВЕСКЕ!
+
+БЛОКИРОВКА ЗАДНЕГО И МЕЖОСЕВОГО ДИФФЕРЕНЦИАЛОВ!
+
+Автомобиль ДИЛЕРСКИЙ, приобретался и эксплуатировался в Красноярске!
+
+ПО ФАКТУ ДВА ВЛАДЕЛЬЦА!
+
+ПОДТВЕРЖДЁННЫЙ ПРОБЕГ!
+
+КУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ, ПЕРЕДНЯЯ ЧАСТЬ В БРОНЕПЛЕНКЕ!
+
+ШИКАРНЫЙ ЧЕРНЫЙ КОЖАНЫЙ САЛОН, чистый, ухоженный, не прокурен!
+
+ТЕХНИКА БЕЗ НАРЕКАНИЙ!
+
+БОГАТАЯ КОМПЛЕКТАЦИЯ HSE Dynamic, есть многое: БЕСКЛЮЧЕВОЙ ДОСТУП, кнопка START-STOP, ДОВОДЧИКИ ДВЕРЕЙ, ПОДОГРЕВ ВСЕХ сидений, электро-регулировки передних сидений с памятью положения на 3 человека, кожаный мультируль с подогревом, электро-регулировка положения рулевой колонки, мультимедиа с сенсорным экраном, навигацией, громкой связью Bluetooth, USB, камера заднего вида, датчики парковки перед/зад, раздельный климат-контроль, круиз-контроль, электрообогрев лобового стекла по ВСЕЙ ПОВЕРХНОСТИ, система УДЕРЖАНИЯ В ПОЛОСЕ ДВИЖЕНИЯ, датчики света и дождя, светодиодные ходовые огни, ксенон, омыватели фар, противотуманные фары, с ЭЛЕКТРОПРИВОД БАГАЖНОЙ ДВЕРИ, предпусковой подогреватель WEBASTO с пультом дистанционного управления, литые диски R21 и т.д.
+
+ПОЛНЫЙ НАБОР КЛЮЧЕЙ ЗАЖИГАНИЯ, 2 шт!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>5500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/eKdzjhJb2pNbNsKNJliCLeky-N9P916cxZQymFFOEG0/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MjcxOTI4LzY1YTYwZDA0ZTVmZTY4ODNjMWNjMmZlZDE3MDMzMDJlLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/rNvCVNHd0021IbfjzhxED3JRy1nxLOyoTD0o3INB2do/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MjcxOTI5LzE2ZjhjNjBhNmVkMGZjYjMzYmM1MmUwMzAzNGM4ZjQzLkpQRw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/jzIDutqwr61s6OcAyGqX-BMufDufhescS_V5_02-QKo/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MjcxOTMwLzUxZWQ4MjJiODAyZGQ2MWIyYmU3OGJlYTY5ZDk4OGRhLkpQRw.jpg</picture>
+        <param name="Год выпуска">2018</param>
+        <param name="Пробег, км">147566</param>
+      </offer>
+      <offer id="WDD2173781A007628" available="true">
+        <name>Mercedes-Benz S-Класс AMG 2015 г. (черный)</name>
+        <description>Год выпуска: 2015
+Пробег: 76 084 км
+Двигатель: 5.5 л, 585 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Купе
+Цвет: Черный
+Владельцев по ПТС: 5
+VIN: WDD2173781A007628
+
+Отличное состояние!
+
+Полностью обслужен!
+
+В комплектацию входит:
+
+Обивка салона: кожа
+Видео-обзор 360 градусов
+Отделка кожей рулевого колеса
+Отделка кожей приборной панели
+Подрулевые лепестки переключения передач
+Мультифункциональное рулевое колесо
+Обогрев рулевого колеса
+Регулировка руля по вылету/высоте
+Бортовой компьютер
+Запуск двигателя с кнопки
+Система «старт-стоп»
+Система доступа без ключа
+Мультимедийная система с ЖК-монитором
+USB, AUX, Розетка 12V, Bluetooth
+Премиальная аудиосистема Burmester
+Навигационная система
+Голосовое управление
+Адаптивный круиз-контроль
+Спортивные передние сиденья
+Электро-регулировка передних сидений
+Память водительского сиденья
+Электро-привод крышки багажника
+Климат-контроль двухзонный
+Круиз-контроль
+Кондиционер
+Парктроники
+Обогрев всех сидений
+Обдув передних сидений
+Массаж передних сидений
+Электро-регулировка и складывание зеркал
+Электро-стекло подъемники
+Обогрев заднего стекла
+Противотуманные фары
+Автоматический корректор фар
+Адаптивное освещение
+Датчик давления в шинах
+Датчик дождя/света
+Светодиодные фары
+Автоматический дальний свет
+Омыватель фар
+Передний центральный подлокотник
+Тонированные стекла
+Легкосплавные диски
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>6200000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/P0v9zU4ripKTPZGY51_EQezurwKnPlf2IrfOHODXBjg/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4NDM1Ni8yNzQyODg5YWFjY2E4ODYzY2M3YzQxM2NjNWUxMmM5Ni5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/xW271BlI9Ul8C1O93qSLVd_dJC-Lzxg7BGi6BvlIrHk/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4NDM1Ny85YTcxYmI4ZDdmMTRiYzNiMDhlOWYzN2E2OThjNTYzOC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/dotrc78F8nX6tleVg-ii70HrlDM9QDnhHpy4bSllul8/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4NDM1OC9kMTAxOTJjNzkzYmY1YmQ1MGYyYWU5MGI3ODM1NmQ3NS5qcGc.jpg</picture>
+        <param name="Год выпуска">2015</param>
+        <param name="Пробег, км">76084</param>
+      </offer>
+      <offer id="WBACV0109L9C18824" available="true">
+        <name>BMW X5 2020 г. (серый)</name>
+        <description>Год выпуска: 2020
+Пробег: 124 567 км
+Двигатель: 3 л, 400 л.с., Дизель
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Серый
+Владельцев по ПТС: 1
+VIN: WBACV0109L9C18824
+
+ОДНА РЕГИСТРАЦИЯ!
+
+РОДНОЙ ПРОБЕГ!
+
+ВЕСЬ КУЗОВ ПОКРЫТ ЗАЩИТНОЙ БРОНЕПЛЁНКОЙ!
+
+БОГАТАЯ КОМПЛЕКТАЦИЯ M Special Individual.
+
+ОТЛИЧНОЕ ТЕХНИЧЕСКОЕ И ЭСТЕТИЧЕСКОЕ СОСТОЯНИЕ!
+
+Особенности комплектации: Декоративная отделка BMW Individual декоративные планки "Черный Рояльный Лак", Вентиляция, память, и подогрев передних сидений, подогрев задних сидений, Проекционный дисплей, Электроподогрев рулевого колеса, Регулируемый люк, Панорамная крыша, Электроподогрев зеркал, Лазерные фары, Система рекуперативного торможения, Система распределения тормозного усилия (EBD), Вспомогательная система торможения (BAS), Система курсовой устойчивости (ESP), Антипробуксовочная система (TCS), Система помощи при спуске с горы (DAC), Система помощи при старте на подъеме (HAC), Переключатель режимов движения, Кнопка переключения автомобиля в спортивный режим, Адаптивный круиз-контроль (ACCS), Система управления дальним светом и т.д.
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет, так и при покупке в автокредит.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование ( Ведущие страховые компании:
+
+Ингосстрах, АльфаСтрахование, А24, МультиСервисГарант).
+
+7. ✅Комиссия ( реал!изация Вашего автомобиля по вашей цене).
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>6800000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/JdWEGTGWMcT9WXL_-1a-r-MJa8Tmd1ObnpWRVa8r-fI/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzg2MzY1MDk1Lzk4OWE1NWI4ZmNhYjE0YjZhMGU4MTQyZjE5ZDFiYjNkLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/5S0qaeNJGh5Nkh8xfkFkr1ny1HEYRBqZN7vXRpf6ozw/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzg2MzY1MDk2LzdjMjhhZjUxNmVhYTVmMjFmODdiMmI2YTU2OTk5YTA1LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/7SSMpT4S84gD0zVNAodIX-18P2FCvl7_AAfSXVjZ_DQ/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzg2MzY1MDk3L2U2Njc1ZTY5NGJiMDg2ODRmMzhiZWQzZjA1MGEwODc2LmpwZw.jpg</picture>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег, км">124567</param>
+      </offer>
+      <offer id="WBACY610709C25650" available="true">
+        <name>BMW X6 2020 г. (белый)</name>
+        <description>Год выпуска: 2020
+Пробег: 69 867 км
+Двигатель: 3 л, 340 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Белый
+Владельцев по ПТС: 2
+VIN: WBACY610709C25650
+
+ВОЗМОЖНА ПРОДАЖА С НОМЕРАМИ - У999УО197 за 7 700 000 р.
+
+НОМЕРА ОТДЕЛЬНО - 600 000 р.
+
+АВТОМОБИЛЬ ДИЛЕРСКИЙ!
+
+ПОДТВЕРЖДЕННЫЙ ПРОБЕГ ВСЕГО 69 868 км.!
+
+КУЗОВ В ЗАВОДСКОМ ОКРАСЕ !
+
+ОРИГИНАЛ ПТС !
+
+ПРЕКРАСНОЕ ТЕХНИЧЕСКОЕ И ЭСТЕТИЧЕСКОЕ СОСТОЯНИЕ!
+
+ПОЛНЫЙ НАБОР КЛЮЧЕЙ ЗАЖИГАНИЯ, 2шт.
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>7000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/oKyTfIjNlPz_wYAc8GsotDDJK0jHmarMI_l0XgPDalI/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMTE1NTA5NS9jMGViYmU2MTRhNjllMWZlZGQzZTI0NGZjOTY5NWQ2ZC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/dwWweBcPGpu5Jxb-vk0SnBXRv-U82z3Nxn6oKRwgt2Q/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMTE1NTA5Ni8zOTBkOWYxNDQwNTM2YTY0ODg5YmEyNDQwMGQ5YjY5ZC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/ay04N1FURmv88yUaLJqcBkA9JWMtamgITeSeYyAnX0A/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMTE1NTA5Ny8xOTM0ODVlNDcwYjZkYmIyMTE1ODEyZjNlZmE1MGYxMC5qcGc.jpg</picture>
+        <param name="Год выпуска">2020</param>
+        <param name="Пробег, км">69867</param>
+      </offer>
+      <offer id="WP0ZZZ97ZKL101976" available="true">
+        <name>Porsche Panamera 2019 г. (серый)</name>
+        <description>Год выпуска: 2019
+Пробег: 91 678 км
+Двигатель: 3 л, 330 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Фастбек
+Цвет: Серый
+Владельцев по ПТС: 3
+VIN: WP0ZZZ97ZKL101976
+
+Автомобиль в идеальном внешнем и техническом состоянии
+
+В НАЛИЧИИ В МОСКВЕ
+
+Память сидений
+
+Проекция
+
+Вентиляция/подогрев передних сидений
+
+2 люка
+
+Потолок - алькантара
+
+Круиз-контроль
+
+Навигация
+
+Камера заднего вида
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>7000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/7uC-HKLo4o8AqojEbWNUz0rvbVFotsgYPVFfq4JCBIk/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMTQ1ODI5Ny9mZTU3ZTRmOTBiZjIxMzg3ZWQzOWE4M2NmMTMwYjdhNC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/3Kaqv-gA7z4QVDcHqh5vOk_68kp7BsOd0zFiuC0NPZM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMTQ1ODI5OC8xZTQwNDcxNjAwNzU0YTFiNzQwZmJlNzkzMTBjMWYxNS5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/QUOuOz4hDG8GWqYl1CuZTmdVeSgPyPhzLY4wTLy6RN8/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMTQ1ODI5OS8yZGIwZjBlMGNiMmY5YWU1Mzk1N2RjMjQzOTY2YzE0OS5qcGc.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">91678</param>
+      </offer>
+      <offer id="W1KLF4HB0RA031514" available="true">
+        <name>Mercedes-Benz E-Класс 2024 г. (белый)</name>
+        <description>Год выпуска: 2024
+Пробег: 3 893 км
+Двигатель: 2 л, 258 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Седан
+Цвет: Белый
+Владельцев по ПТС: 1
+VIN: W1KLF4HB0RA031514
+
+ШИКАРНЫЙ СЕДАН БИЗНЕС КЛАССА В НАЛИЧИИ В МОСКВЕ!
+
+СОСТОЯНИЕ НОВОГО АВТО!
+
+НЕМЕЦКАЯ СБОРКА!
+
+ПОЛНЫЙ ПРИВОД!
+
+Параллельный импорт из Кореи!
+
+ЭПТС ДЕЙСТВУЮЩИЙ, ВСЕ ПЛАТЕЖИ ОПЛАЧЕНЫ В ПОЛНОМ ОБЪЁМЕ!
+
+КУЗОВ ПОЛНОСТЬЮ В ЗАВОДСКОМ ОКРАСЕ!!!
+
+МЕНЮ РУСИФИЦИРОВАНО!
+
+БОГАТАЯ КОМПЛЕКТАЦИЯ Exclusive (память сидений, подогрев, вентиляция, проекция, люк, панорама, Burmester и т.д).
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>7550000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/Fu5Tw4YchIzTgxXdWxSaw18fKXZLGsRXu6oX2ptNuFA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1NzM1OS9kOWRmNjMzMTUzMzcyNDg2N2IwMGQ0OWY1OTEzN2YwMC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/m4OsGQCVIZstddwZISWWO-WoBcbijdxMl-tOeR5BTLg/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1NzM2MC9jYjViMmM3YThkMmE3YjlmZDIzZjc3NjNlNWM0MmMxZS5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/W4Qv0rDdTw636IhWTGeURvrlX0ljBBYCrJJoCGhbzy4/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1NzM2MS85ZTk3NWQ5MjY5MzNlNjQzNjk3Y2QyZDc5MWJjODAxMy5qcGc.jpg</picture>
+        <param name="Год выпуска">2024</param>
+        <param name="Пробег, км">3893</param>
+      </offer>
+      <offer id="W1K2231611A048796" available="true">
+        <name>Mercedes-Benz S-Класс 2021 г. (белый)</name>
+        <description>Год выпуска: 2021
+Пробег: 123 177 км
+Двигатель: 3 л, 367 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Седан
+Цвет: Белый
+Владельцев по ПТС: 3
+VIN: W1K2231611A048796
+
+ГИБРИДНЫЙ БЕНЗИНОВЫЙ ДВИГАТЕЛЬ, с суммарной мощностью 381л.с!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ АВТОМАТ!
+
+ПОЛНЫЙ ПРИВОД!
+
+УДЛИНЕННЫЙ КУЗОВ!
+
+КОМПЛЕКТАЦИЯ S450 4MATIC L!
+
+ДВА ВЛАДЕЛЬЦА!
+
+ПРИОБРЕТАЛАСЬ У ОФИЦИАЛЬНОГО ДИЛЕРА В Красноярске!
+
+Эксплуатировалась и обслуживалась в Красноярске.
+
+КУЗОВ В ЗАВОДСКОМ ОКРАСЕ, БЕЗ ДТП!!!
+
+ПОЛНЫЙ КОМПЛЕКТ КЛЮЧЕЙ ЗАЖИГАНИЯ 2шт!
+
+❗️ АВТОМОБИЛЬ ПРОШЕЛ ПРОВЕРКУ РАБОТОСПОСОБНОСТИ, ДЕТЕЙЛИНГ САЛОНА/КУЗОВА И ГОТОВ К ДАЛЬНЕЙШЕЙ ЭКСПЛУАТАЦИИ✅❗️
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>7600000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/DkYkmTiWyfHtXfnnYnQFYclaQXCcL1bOPBAdn3TB96o/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4NDIxNC8yM2E3ZTUwZDcyODg5MDExN2E4MGVhNjAzZTg5NGFhOS5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/Wq-9Zm9rfA1dI8IEWq4vIY12SlzIOiEnkoHwUEbOV94/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4NDIxNS9mYjlkZjM3N2RmZGQ2ODUyNTk0YTk0YTAwOTU1MzU1MC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/F25uODb2PJdLptb9bK3lwP7X5XhwPjGT6qS9oM1vXyU/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4NDIxNi9iMGI3YTcwMDRjNjBlMmYwZWEzMjUwYjlmYzRlYjcwOS5qcGc.jpg</picture>
+        <param name="Год выпуска">2021</param>
+        <param name="Пробег, км">123177</param>
+      </offer>
+      <offer id="WP1ZZZ9YZLDA56680" available="true">
+        <name>Porsche Cayenne 2019 г. (белый)</name>
+        <description>Год выпуска: 2019
+Пробег: 61 218 км
+Двигатель: 3 л, 340 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Белый
+Владельцев по ПТС: 2
+VIN: WP1ZZZ9YZLDA56680
+
+Авто в наличии в Москве!
+
+Автомобиль привезен из Европы, начало эксплуатации в России с сентября 2022г.
+
+МЕНЮ РУСИФИЦИРОВАНО!
+
+ДВА ВЛАДЕЛЬЦА!
+
+КУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ В ЗАВОДСКОМ ОКРАСЕ!
+
+БЕЗ ДТП! ВСЕ СТЕКЛА ОРИГИНАЛ!
+
+САЛОН КАК НОВЫЙ!
+
+ТЕХНИКА БЕЗ НАРЕКАНИЙ, ТО ВСЕГДА ВОВРЕМЯ!
+
+Дополнительно установлена композитная защита моторного отсека.
+
+ШИКАРНАЯ КОМПЛЕКТАЦИЯ Platinum Edition с индивидуальным оснащением:
+
+— Панорамная крыша
+
+— Отсутствие обозначения модели
+
+— Пневматическая подвеска с регулировкой дорожного просвета и функцией выравнивания,
+
+включая PASM
+
+— Топливный бак объемом 90 л
+
+— 21-дюймовые диски RS Spyder Design, с расширителями колесных арок в цвет кузова
+
+— Функция памяти индивидуальных настроек сиденья с водительской стороны
+
+— Подогрев рулевого колеса
+
+— Подголовники передних сидений с тиснением герба Porsche
+
+— Система объемного звучания BOSE®
+
+— Матричные светодиодные фары, включая систему динамического освещения Porsche (PDLS Plus)
+
+— Зеркала заднего вида (снаружи и в салоне) с функцией автоматического затемнения
+
+— Тонированное остекление Privacy
+
+— Система помощи водителю при смене полосы движения (Lane Change Assist (LCA))
+
+— Комфортный доступ
+
+— Электромеханические доводчики дверей
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет, так и при покупке в автокредит.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование ( Ведущие страховые компании:
+
+Ингосстрах, АльфаСтрахование, А24, МультиСервисГарант).
+
+7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>7600000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/y3js0dkj3YeLTsqkyEkt11fc8Hs2f1IHg1s_qM9xAQw/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg1MDUxL2RmNDYxM2ZlOGI5ZmRiNDU0ZjFmNDkxNGY1NWRiNGM0LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/5J9eR9_9gPRFKr6RFU74TmE46aosv9gNpeilsohqSA0/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg1MDUyLzNhZGEzMTI0YzQ2ZTZiM2EzNDliNjA2MjdlMDY2YTVkLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/1l_0XZBOK8kTs3CDwjA6Jl0XvRxuA9AKsCkkdUvDXFM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg1MDUzLzdkOWE2NzM5OTBkZTNkZTQ0YTk2ODIyMzc1M2ZjMzczLmpwZw.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">61218</param>
+      </offer>
+      <offer id="1FTFW1RG2KFC08590" available="true">
+        <name>Ford F-150 2019 г. (черный)</name>
+        <description>Год выпуска: 2019
+Пробег: 54 530 км
+Двигатель: 3.5 л, 450 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Пикап Двойная кабина
+Цвет: Черный
+Владельцев по ПТС: 1
+VIN: 1FTFW1RG2KFC08590
+
+Самый продаваемый пикап в Америке. В России - самый узнаваемый.
+
+Категория В.
+
+Не останетесь без внимания на дороге. Это не просто машина, это статус, на который все оборачиваются.
+
+В ЭКСПЛУАТАЦИИ В РФ С ФЕВРАЛЯ 2026 ГОДА! ОДИН ВЛАДЕЛЕЦ! КУЗОВ ПОЛНОСТЬЮ В ЗАВОДСКОМ ОКРАСЕ!
+
+10-ст. АКПП с лепестками переключения на руле
+
+Двойная кабина
+
+* Колеса повышений проходимости
+
+* Усиленная Подвеска Fox
+
+* Пороги Raptor
+
+* Блокировка дифференциала
+
+* 4режима : 2H - 4A - 4H - 4L
+
+* Режим езды с прицепом
+
+* черная перфорированная кожа
+
+эл/привод передних сидений с поясничным пневмоподпором, память для водителя на 3 персоны
+
+* подогрев и вентиляция передних сидений
+
+* Камеры кругового обзора 360’
+
+* Адаптивный круиз контроль
+
+* Панорама с функцией открытия люка
+
+* Электропривод рулевой колонки
+
+* Электро складывание боковых зеркал + открытие задней форточки
+
+* Электро регулировка педального узла
+
+* Бесключевой доступ + кодировка двери для доступа без ключа
+
+* двойное тепло/шумоизолирующее остекление
+
+❗️ АВТОМОБИЛЬ ПРОШЕЛ ПРОВЕРКУ РАБОТОСПОСОБНОСТИ, ДЕТЕЙЛИНГ САЛОНА/КУЗОВА И ГОТОВ К ДАЛЬНЕЙШЕЙ ЭКСПЛУАТАЦИИ✅❗️
+
+????Абсолютно каждый автомобиль проходит тщательную проверку на:
+
+✅ОРИГИНАЛЬНОСТЬ ПРОБЕГА
+
+✅ЮРИДИЧЕСКУЮ ЧИСТОТУ АВТОМОБИЛЯ И ДОКУМЕНТОВ
+
+Все автомобили салона проходят комплексную предпродажную подготовку по полной очистке салона и полировке кузова.
+
+????Услуги автосалона "Галеон Авто"???? :
+
+АВТОМОБИЛИ НА ЗАКАЗ ИЗ КАЗАХСТАНА, КОРЕИ, КИТАЯ, ЯПОНИИ ПО ВАШИМ КРИТЕРИЯМ
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>7800000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/p4AoNnzxXxF4xlLQoJRMpgy_peIxLV01hecLfLwmrXo/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4NDA0NTA5LzJhNGRjYjgzMGJjMzNjNzBiYmU4ZGRjNzFhYmU3YTdhLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/WN1ckVPf7tDmxDxqLTvB4GB3sxexMS5UmkoJp46Mlgw/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4NDA0NTEwLzRhNWM1YzcwMWJiYjQ1YzBhOGU3MWRhODYzMDQ4YWYwLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/lidT8l6xwihK7oLKEqPeLmiuO5ZxKUVJqaGqGQI_3wc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4NDA0NTExL2VhMDZlOThhMmYyOTZhYjdkMmU0YTRmZDdjZmEwNTZjLmpwZw.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">54530</param>
+      </offer>
+      <offer id="W1N1679231A159639" available="true">
+        <name>Mercedes-Benz GLS 2019 г. (белый)</name>
+        <description>Год выпуска: 2019
+Пробег: 76 761 км
+Двигатель: 2.9 л, 330 л.с., Дизель
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Белый
+Владельцев по ПТС: 1
+VIN: W1N1679231A159639
+
+ФЛАГМАНСКИЙ КРОССОВЕР ПРЕМИУМ КЛАССА компании Mercedes-Benz ВТОРОГО ПОКОЛЕНИЯ!
+
+ДОЛГОВЕЧНЫЙ ДИЗЕЛЬНЫЙ ДВИГАТЕЛЬ МОЩНОСТЬЮ 330 л.с!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ 9-ти ступенчатый АВТОМАТ!
+
+ПОЛНЫЙ ПРИВОД, РЕГУЛИРУЕМАЯ ПНЕВМОПОДВЕСКА!
+
+7 ПОСАДОЧНЫХ МЕСТ, 3 РЯДА СИДЕНИЙ (третий ряд складной с электроприводом)!
+
+ШИКАРНАЯ КОМПЛЕКТАЦИЯ Luxury!
+
+ОДИН ВЛАДЕЛЕЦ, ПТС ОРИГИНАЛ!
+
+ПОДТВЕРЖДЁННЫЙ ПРОБЕГ!
+
+АВТОМОБИЛЬ ДИЛЕРСКИЙ!
+
+Эксплуатация Иркутская область.
+
+ПЕРЕДНЯЯ ЧАСТЬ КУЗОВА В БРОНЕПЛЕНКЕ!
+
+ОТЛИЧНОЕ ТЕХНИЧЕСКОЕ СОСТОЯНИЕ, ДИЛЕРСКОЕ ОБСЛУЖИВАНИЕ!
+
+КОЖАНЫЙ САЛОН ОЧЕНЬ УХОЖЕННЫЙ, НЕ ПРОКУРЕН, НЕ ЗАЦАРАПАН!
+
+ПОЛНЫЙ КОМПЛЕКТ КЛЮЧЕЙ ЗАЖИГАНИЯ, 2шт!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>7900000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/K7CiY-BidDUfG4p5Njt6oK31scXmpsW3Strka_cQ0CY/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4Mzc4OC80ZWEzNjZhYjNhODI4ODdjOTc5NTJkZDc2NTZmZWU4Yi5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/wml-Cb7DT8UG0gZfBqTIl-PfAuqvJpTDUNUb7Vd0LKY/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4Mzc4OS81YjRhYTk2MWI4MDkyZTRjNDc3NTc3MjZkY2RhMDk5OS5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/a6QEaZXviqrN48Zir7EWB5N2ZBZ8ytF5SkKmwE1BHq0/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4Mzc5MC9kYmNlMTNmMzQwNjM2NjcyYjdmMWM4NjViMmMyZGM4ZS5qcGc.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">76761</param>
+      </offer>
+      <offer id="WBACY810409B19720" available="true">
+        <name>BMW X6 2019 г. (синий)</name>
+        <description>Год выпуска: 2019
+Пробег: 112 282 км
+Двигатель: 4.4 л, 530 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Синий
+Владельцев по ПТС: 1
+VIN: WBACY810409B19720
+
+КРОСС-КУПЕ ПРЕМИУМ КЛАССА 3-го ПОКОЛЕНИЯ BMW X6!
+
+БЕНЗИНОВЫЙ ДВИГАТЕЛЬ МОЩНОСТЬЮ 530 л.с.!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ, 8-ми ступенчатый АВТОМАТ!
+
+ПОСТОЯННЫЙ ПОЛНЫЙ ПРИВОД!
+
+ШИКАРНАЯ КОМПЛЕКТАЦИЯ xDrive M50i
+
+ОДИН ВЛАДЕЛЕЦ!
+
+АВТОМОБИЛЬ ДИЛЕРСКИЙ!
+
+Приобретался, эксплуатировался и обслуживался в Красноярске.
+
+ОДИН ВЛАДЕЛЕЦ!
+
+РЕАЛЬНЫЙ ПРОБЕГ!
+
+КУЗОВ В ЗАВОДСКОМ ОКРАСЕ, ПОЧТИ ВЕСЬ В БРОНЕПЛЕНКЕ!!!
+
+КОЖАНЫЙ САЛОН Individual УХОЖЕННЫЙ, НЕ ПРОКУРЕН!
+
+ПОЛНЫЙ НАБОР КЛЮЧЕЙ ЗАЖИГАНИЯ, 2шт.
+
+ДОПОЛНИТЕЛЬНО УСТАНОВЛЕНА СИГНАЛИЗАЦИЯ С АВТОЗАПУСКОМ!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>8100000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/ohUq2v5rI1kfIOqZ-TfzuM71u0NZcJFs027XyH22HG0/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyMzI3LzI2MzZjODFkZDIxOTEyOGYxZTIwZjMzMDZlMzQ4MTZmLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/EfWE0bZxJVU3lnO7GnUhsn-X352J-RGLvukAPR602UA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyMzI4Lzc4MjEzMmM4YTcyNGUzMzQ5OTVkOTc1ZjEyY2NmMmRlLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/pwGMjiqja8PE7_GJ1MdPdChcS6Hgc8SDgbYhBJHGumQ/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyMzI5LzU0YTkyN2Q5MGM0ODAwOTAwMWNkYWM0MjQ0MjE3M2JlLmpwZw.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">112282</param>
+      </offer>
+      <offer id="WP1ZZZ9YZLDA89324" available="true">
+        <name>Porsche Cayenne 2019 г. (серый)</name>
+        <description>Год выпуска: 2019
+Пробег: 93 254 км
+Двигатель: 4 л, 550 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Серый
+Владельцев по ПТС: 3
+VIN: WP1ZZZ9YZLDA89324
+
+Куплен у официального дилера!
+
+Оригинальный пробег!
+
+В идеальном внешнем и техническом состоянии!
+
+Кузов полностью покрыт прозрачной матовой пленкой!
+
+Богатая комплектация!
+
+Круиз-контроль
+
+Пневмоподвеска
+
+Память сидений
+
+Панорамная крыша
+
+Потолок - коричневая алькантара
+
+4ех зонный климат-контроль
+
+Премиальная акустика BURMESTER
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>8700000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/ddowjFJDWb9CWXB0gym72gAksS4_fE8OmA1EgJw29v8/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyNTA2L2U3YTBkODJmMGY0ZjhiZDg4OTZjNWU5Y2Q1ZjkyYTI3LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/m2YtZe13GVvNVTp21F9VrnJi2jLao8wbh642ZQlBahs/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyNTA3L2VmMTQ3NzQ5OTU4YWRiZjUxM2JjNDE0OTMwMDljYWU3LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/gqMJ20sVyEDCFZdE6iaq_dXnZpkpPYgxVeKyeW67qro/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyNTA4L2NmNDRlY2IwNzhlNTI2MGFjNWE0MjcyNmY1MDAzMjdmLmpwZw.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">93254</param>
+      </offer>
+      <offer id="LDP29H922PM002170" available="true">
+        <name>M-HERO I 2023 г. (черный)</name>
+        <description>Год выпуска: 2023
+Пробег: 76 км
+Двигатель: 1.5 л, 816 л.с., Гибрид
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Черный
+Владельцев по ПТС: 1
+VIN: LDP29H922PM002170
+
+Автомобиль в наличии в Москве!
+
+ЭПТС действующий
+
+Ком.утиль оплачен
+
+АБСОЛЮТНО НОВЫЙ АВТОМОБИЛЬ, НИ ОДНОЙ РЕГИСТРАЦИИ!!!
+
+ПОСЛЕДОВАТЕЛЬНЫЙ ГИБРИД!
+
+ПОЛНЫЙ ПРИВОД!
+
+ПОЛНАЯ КОМПЛЕКТНОСТЬ!
+
+ЭЛЕКТРОСТАНЦИЯ В ПОДАРОК!!!
+
+ЦЕНА БЕЗ НДС.
+
+Гибридный двигатель
+Система курсовой устойчивости
+Система контроля слепых зон
+Система предотвращения столкновения
+Датчик усталости водителя
+Подушки безопасности водителя
+Подушки безопасности пассажира
+Боковые передние и задние подушки безопасности
+Оконные шторки безопасности
+Система крепления детских автокресел
+Адаптивный круиз-контроль
+Камера 360°
+Система автоматической парковки
+Система помощи при старте в гору
+Система помощи при спуске с горы
+Система распознавания дорожных знаков
+Система управления дальним светом
+Пневмоподвеска
+Запуск двигателя с кнопки
+Система доступа без ключа
+Электрорегулировка руля с памятью положения
+Электрорегулировка задних сидений
+Электростеклоподъемники передние и задние
+Электропривод зеркал
+Климат-контроль 2-зонный
+Обогрев зеркал
+Навигационная система
+USB
+Голосовое управление
+Bluetooth
+Проекционный дисплей
+Беспроводная зарядка для телефона
+Розетка 12V
+Розетка 220V
+Кожаная обивка салона
+Люк
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет, так и при покупке в автокредит.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование ( Ведущие страховые компании:
+
+Ингосстрах, АльфаСтрахование, А24, МультиСервисГарант).
+
+7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>9700000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/UNjuJbejAK1BhUv74zr1LG66ojN5bGtT-f44nzSdTo4/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MjcyNDU0LzI0MmI5YzU1NTQwYmExNmY3MjBkYmU4MWUzYzVlNTgxLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/oEz3KmyM4YyllsLrZvMDDQNM8kl310b0P2PL9VwagmQ/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzg2NjI4NTgzLzNjN2RkNzZmNjc3YjgzYTUzOGIzYTVkYTZkY2E0OTkxLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/ZrpbSkAE9I4r-arc3cJPfsOZBMhBtV_H3vU-GzInqws/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzg2NjI4NTg0L2MzNWQ0YWQ2OGIzM2Q4M2FhNzFmYTAxMDljZjZmYWNkLmpwZw.jpg</picture>
+        <param name="Год выпуска">2023</param>
+        <param name="Пробег, км">76</param>
+      </offer>
+      <offer id="WP0ZZZ97ZNL100295" available="true">
+        <name>Porsche Panamera 2021 г. (серый)</name>
+        <description>Год выпуска: 2021
+Пробег: 48 512 км
+Двигатель: 3 л, 330 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Хэтчбек
+Цвет: Серый
+VIN: WP0ZZZ97ZNL100295
+
+ПРИОБРЕТАЛСЯ У ДИЛЕРА! ОБСЛУЖИВАЛСЯ У ДИЛЕРА НА ПРОТЯЖЕНИИ ВСЕГО ВРЕМЕНИ. АВТОМОБИЛЬ В ЗАВОДСКОМ ОКРАСЕ. ПОЛНОСТЬЮ ПОКРЫТ ЗАЩИТНОЙ БРОНИРОВОЧНОЙ ПЛЁНКОЙ! ПОЛНОСТЬЮ ОБСЛУЖЕН! КРОМЕ ПРОВЕДЕНИЯ ОЧЕРЕДНОГО ТО ВЛОЖЕНИЙ НЕ ТРЕБУЕТ! ТО БЫЛО ПРОИЗВЕДЕНО НА ПРОБЕГЕ 40 720 КМ.
+
+ПРЕКРАСНОЕ ТЕХНИЧЕСКОЕ И ЭСТЕТИЧЕСКОЕ СОСТОЯНИЕ, БЛИЗКОЕ К НОВОМУ!
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование.
+
+7. ✅Комиссия.
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>10300000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/CkP6O2b3kXFfT4CH1LHsJ_7rmDzTpJy421mXZXrHck8/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3NzY4MDkwLzgwMjJkNTY2MDM1ZmYyODVkOTliMDAzYWEzYzFjZDFiLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/mD_dD9ecu8ECCV2eyGAwDDTIQiZBotkB1s0vWoAesvc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3NzY4MDkxL2VlZGUxNmFjZjI5ZTg4ZWFmNjMzNThkMzNkZmY1NjkzLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/L2rco0hVCDRsQdxe9Wk5uQuoeBeHF0Mvvw2jQqUVjys/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3NzY4MDkyL2QxZjNkODA0NmZkYmUyNGEwYzIxNzM5ZmNmZDM0YzNhLmpwZw.jpg</picture>
+        <param name="Год выпуска">2021</param>
+        <param name="Пробег, км">48512</param>
+      </offer>
+      <offer id="WBACY810809K69973" available="true">
+        <name>BMW X6 M 2021 г. (черный)</name>
+        <description>Год выпуска: 2021
+Двигатель: 4.4 л, 600 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Черный
+VIN: WBACY810809K69973
+
+НЕМЕЦКАЯ СБОРКА!!! ПРИОБРЕТАЛСЯ И ОБСЛУЖИВАЛСЯ У ДИЛЕРА!
+
+БЕНЗИНОВЫЙ ДВИГАТЕЛЬ МОЩНОСТЬЮ 530 л.с.!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ, 8-ми ступенчатый АВТОМАТ!
+
+ПОСТОЯННЫЙ ПОЛНЫЙ ПРИВОД!
+
+СОСТОЯНИЕ НОВОГО АВТОМОБИЛЯ!
+
+РОДНОЙ ПРОБЕГ!
+
+ПРОИЗВЕДЕНО РЕГЛАМЕНТНОЕ ТО В ЯНВАРЕ 2026 НА ПРОБЕГЕ 24 034 КМ!
+
+АВТОМОБИЛЬ В ЗАВОДСКОМ ОКРАСЕ! В БРОНЕПЛЕНКЕ ВСЕ МЕТАЛЛИЧЕСКИЕ ЭЛЕМЕНТЫ, КРОМЕ ЗАДНИХ КРЫЛЬЕВ И КРЫШКИ БАГАЖНИКА!
+
+КОЖАНЫЙ САЛОН В ОТЛИЧНОМ СОСТОЯНИИ!
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование.
+
+7. ✅Комиссия.
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>10700000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/vczPOH1cRrLEjuxug9CVl9HyGCEK2SE4gKnqYfLpPTo/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM2MjU2L2E1ZWRjMDc3Y2I5MWNkZmEyNzYxODI1ZWQ2MTE3NjJjLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/-VlxSZzcyegSddYDs9-b8l571UW-mOM7jhbr5nH280Q/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM2MjU3L2QyODM3Zjg2MzEzOTgzZWNmYmFmNzkzNjQxODNlZTFkLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/jf9uzF_v5bE0UV-F2OxvdweOq96GTnak7k-1RTxzxYc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM2MjU4LzA5ZTY0YmJkNzZmODY5ZGRlMDdlM2VkMjdiMjNmZDNiLmpwZw.jpg</picture>
+        <param name="Год выпуска">2021</param>
+        <param name="Пробег, км">0</param>
+      </offer>
+      <offer id="WP0ZZZY1ZMSA58473" available="true">
+        <name>Porsche Taycan 2021 г. (белый)</name>
+        <description>Год выпуска: 2021
+Пробег: 30 774 км
+Двигатель: Электричество
+КПП: АКПП
+Привод: Полный
+Кузов: Седан
+Цвет: Белый
+Владельцев по ПТС: 3
+VIN: WP0ZZZY1ZMSA58473
+
+ДИЛЕРСКИЙ АВТО! Приобретался новым у официального дилера в Минеральных Водах!
+
+КУЗОВ ПОЛНОСТЬЮ В ЗАВОДСКОМ ОКРАСЕ! Весь в бронеплёнке!
+
+РОДНОЙ ПРОБЕГ!
+
+ОТЛИЧНОЕ ТЕХНИЧЕСКОЕ СОСТОЯНИЕ!
+
+В комплектацию входят:
+
+Белый металлик (Carrara White)
+Двухцветный кожаный салон Черный / Красный (Black / Bordeaux Red) с отделкой гладкой кожей, в
+комбинации с другими материалами
+
+Элементы кузова окрашены в черный цвет (глянец)
+Наружные складные зеркала с электроприводом и подсветкой
+Зеркала заднего вида окрашены в цвет кузова
+Одноступенчатая трансмиссия на передней оси, двухступенчатая трансмиссия на задней оси
+21-дюймовые диски Mission E Design
+Колесные диски окрашены в цвет кузова
+Световая полоса с логотипом PORSCHE
+черного цвета
+
+Панорамная крыша, неподвижная
+Стекла с тепло- и звукоизоляцией и тонированным остеклением Privacy
+Проекция на лобовое стекло
+Система помощи водителю при смене полосы движения (Lane Change Assist (LCA))
+Комфортный доступ
+4-зонный климат-контроль c
+расширенными возможностями
+
+Комфортные задние сиденья 2+1
+Пакет освещения салона
+18-позиционные адаптивные спортивные сиденья с функцией памяти
+Вентиляция передних сидений
+Ремни безопасности красного цвета
+(Bordeaux Red)
+
+Крышка отсека для хранения на центральной консоли тиснением герба Porsche
+Сенсорный экран со стороны пассажира
+Система звучания Burmester® 3D High-End Surround Sound
+
+ЦЕНА УКАЗАНА БЕЗ НДС!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>10900000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/BwEOgs3gRBQQm89wkfnirQNpmbO8Db0uxHOQLvuM-QI/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4MjUyMC9jNWNiYjhhNjBkMzBiOTA5NjIxMGMwM2I2NGU1ZjBhMy5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/TX4Vs5N_wO4aFd_30HbuctrhnR2DbRezLjp47tW1gH0/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4MjUyMS9mZDFkMzUwM2UxOWE4YTRhNjY5MmQ3NzYwODNiZmUzNy5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/nXWLYua_CkuWZrOuz9wUq3jwLkIdZUlpJMULuzlFRWk/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4MjUyMi84NzYwYjNjZDlkMWZlNDdhZTQ2Mjc0NmFkNTIxNmM1MC5qcGc.jpg</picture>
+        <param name="Год выпуска">2021</param>
+        <param name="Пробег, км">30774</param>
+      </offer>
+      <offer id="W1K2906891A041993" available="true">
+        <name>Mercedes-Benz AMG GT 2021 г. (серый)</name>
+        <description>Год выпуска: 2021
+Пробег: 65 590 км
+Двигатель: 4 л, 639 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Хэтчбек
+Цвет: Серый
+VIN: W1K2906891A041993
+
+Автомобиль в отличном внешнем и техническом состоянии
+
+По факту 2 собственника!
+
+Оригинальный цвет - Selenitgrau Matt
+
+Богатая комплектация:
+
+Декоративные вставки из карбона
+
+Потолок из алькантары
+
+Панорамная крыша
+
+Память передних пассажиров
+
+Вентиляция/подогрев передних пассажиров
+
+Премиальная акустика Burmeister
+
+Круиз-контроль
+
+Датчики слепых зон
+
+Карбоновый спойлер
+
+Навигация
+
+Камеры 360
+
+Активный выхлоп
+
+Распознавание дорожных знаков
+
+И многое другое...
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>11000000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/xxZHhI7BWFIZ6ik6dGZb32KdmLJ1ZvIv5ylBjKcAMEg/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4MjA5MC8yNDU3ZDE0ZTY5YjEzMjc2YjI5ZTM3NGViNTU5YjYxMS5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/PuyzdgnEVXqgBusKNoblQuijzMTDhoxRiPuNGZYtsgQ/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4MjA5MS9iNDQzYzg2YjgwN2MxNmJhMWY5MjQxZDk1MThjZGNmMC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/Rn3fvLatQ7Q4Z9AZRbeS5QzVCFL4aJCbmRZRn3hQIu8/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMjY4MjA5Mi82NDRiMGI0NzQ4NjIwODhkZjk1NjI1NDUzYzdjNWUxZS5qcGc.jpg</picture>
+        <param name="Год выпуска">2021</param>
+        <param name="Пробег, км">65590</param>
+      </offer>
+      <offer id="LGXEK1C41R0044822" available="true">
+        <name>BYD Yangwang U8 2024 г. (серый)</name>
+        <description>Год выпуска: 2024
+Пробег: 34 217 км
+Двигатель: 2 л, 1197 л.с., Гибрид
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Серый
+VIN: LGXEK1C41R0044822
+
+BYD Yangwang U8 от ABC Electric Motors Club.
+
+ЦЕНА С НДС 22% - 13.600.000 руб
+
+Moщность aвтoмобиля 1197 л.c. (880 кBт).
+Pазгoн дo 100 км/ч - 3.6 с.
+Объём топливнoгo бaкa, л - 75.
+Eмкоcть батaрeи, кВт⋅ч - 49.05.
+Зaпас xoдa составляет - 1000 км.
+Полный привод.
+
+ОСНОВНОЕ ИЗ КОМПЛЕКТАЦИИ:
+
+Система помощи при выезде с парковки задним ходом;
+
+Система предотвращения столкновения;
+
+Система контроля слепых зон;
+
+Доводчик дверей;
+
+Проекционный дисплей;
+
+Система автоматической парковки;
+
+Камера 360°;
+
+Адаптивный круиз-контроль;
+
+Подогрев передних сидений;
+
+Вентиляция передних сидений;
+
+Панорамная крыша;
+
+Сиденья с массажем;
+
+Обогрев рулевого колеса;
+
+Память передних сидений;
+
+Подогрев задних сидений;
+
+Вентиляция задних сидений;
+
+Беспроводная зарядка для смартфона;
+
+Премиальная аудиосистема;
+
+Система адаптивного освещения;
+
+Активная подвеска;
+
+Диски 22.
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование.
+
+7. ✅Комиссия.
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>11500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/-d2kT5zTGWCqR-g0EK_96A1dg_7O6rkQ1zjWHbdhjOM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4NDY2NDAzLzkzYzZmMWMzZDcwMzM3ZTY2YjliM2UzNmRkMDY4MzcwLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/Uaj3bt33imDX7GnCAqU4T3w5yA0xVLZi4ct9eRGQvIU/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4NDY2NDA0L2NmYTcyZTE4Mjg4MjJkODQ0YTMwMjg5MjBmOTRlYzcyLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/IqzapHstANLMLdq9DaF6G9MN0NFspoDWPhaiqtEgrfY/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4NDY2NDA1LzgyYzQyZDI5ZWRlOTBlZjI0YWYwYzZkZDcwMzE5MGM5LmpwZw.jpg</picture>
+        <param name="Год выпуска">2024</param>
+        <param name="Пробег, км">34217</param>
+      </offer>
+      <offer id="SJAAE14V4KC027254" available="true">
+        <name>Bentley Bentayga 2019 г. (синий)</name>
+        <description>Год выпуска: 2019
+Пробег: 106 097 км
+Двигатель: 4 л, 435 л.с., Дизель
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Синий
+Владельцев по ПТС: 5
+VIN: SJAAE14V4KC027254
+
+Куплен новым у официального дилера Бентли г. Красноярска.
+
+Полный комплект документов и ключей.
+
+Автомобиль в заводском окрасе, без ДТП.
+
+Родной пробег.
+
+Выполнено плановое ТО, вложений не требует.
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет, так и при покупке в автокредит.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование ( Ведущие страховые компании:
+
+Ингосстрах, АльфаСтрахование, А24, МультиСервисГарант).
+
+7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>11500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/bw1zbLiqREDXMUoHPTh31ut4mq-FP42MQGhPnJtzUSA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg0NjgyLzA5MDEzY2IzYmU2ODM4ZWNlYmMxMTQ2MzQ1ZTMyNmJiLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/L-AP93VLmRk57x8piH5syYDp2NlBjW0HmLozubJv3sw/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg0NjgzL2U0Zjk1Mzg1YzE1NTg2NDM4N2MwNDNiNjA2ZTZiYjVmLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/URDfUGeVmcjrCM2GUXTDXfGbyXpoS9eUfNJqxn-MphM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg0Njg0LzI0MGMyNmVmNTllMTAxNWM5Yjk3NWY1OWY1ZWU4ZThkLmpwZw.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">106097</param>
+      </offer>
+      <offer id="SCA664S0XCUX37823" available="true">
+        <name>Rolls-Royce Ghost 2011 г. (белый)</name>
+        <description>Год выпуска: 2011
+Пробег: 27 871 км
+Двигатель: 6.6 л, 570 л.с., Бензин
+КПП: АКПП
+Привод: Задний
+Кузов: Седан
+Цвет: Белый
+VIN: SCA664S0XCUX37823
+
+Rolls-Royce Ghost — это представительский седан, модель отличается роскошным интерьером, мощным двигателем и акцентом на комфорт.
+
+Сертифицированный MANSORY!
+
+V-12 , 6.6 (563л.с)
+
+ОРИГИНАЛЬНЫЙ ПРОБЕГ, ВСЕГО 28 161 км!
+
+СОСТОЯНИЕ БЛИЗКОЕ К НОВОМУ!
+
+КУЗОВ ПОЛНОСТЬЮ В ЗАВОДСКОМ ОКРАСЕ!
+
+Без ДТП и страховых выплат.
+
+Доработки официально внесены в ЭПТС и СБКТС!
+
+ДИСКИ ROLLS-ROYCE MANSORY R22!
+
+ПОЛНЫЙ КОМПЛЕКТ КЛЮЧЕЙ ЗАЖИГАНИЯ, 2шт!
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование.
+
+7. ✅Комиссия.
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>12900000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/_UKmJb8QMqe3pJwYefwAprBfk9_uUimFlBiv40vOmRk/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM1MzUzLzEzNTVkOWQyMTRiZmRhN2NkMGJiY2FiODFkYWQyZjQxLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/-Epmqndm22fjUPFwjKQLEN5Jtsxyy1_K6Nd4EfbrTEY/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM1MzU0LzhjYzE4OGMzNjQwNGY3Y2U4NmYwYTQxYWVmZTI0NDM4LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/GO2tmvyP8IZPaYdSKSigjiYiKYBIxgRkeMb5yCU4pHM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM1MzU1L2JlMWZlMjJlNjE5M2RjNWI2NTA3NGQyOWU5MWQ3OGM4LmpwZw.jpg</picture>
+        <param name="Год выпуска">2011</param>
+        <param name="Пробег, км">27871</param>
+      </offer>
+      <offer id="WBA41EX01R9S83757" available="true">
+        <name>BMW X6 2023 г. (белый)</name>
+        <description>Год выпуска: 2023
+Пробег: 20 368 км
+Двигатель: 4.4 л, 530 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Белый
+VIN: WBA41EX01R9S83757
+
+КРОСС-КУПЕ ПРЕМИУМ КЛАССА BMW X6!
+
+РЕСТАЙЛИНГОВЫЙ КУЗОВ!
+
+АМЕРИКАНСКАЯ СБОРКА!
+
+БИТУРБИРОВАННЫЙ БЕНЗИНОВЫЙ ДВИГАТЕЛЬ МОЩНОСТЬЮ 530 л.с.!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ, 8-ми ступенчатый АВТОМАТ!
+
+ПОЛНЫЙ ПРИВОД С ВЫБОРОМ РЕЖИМОВ ЭКСПЛУАТАЦИИ!
+
+ШИКАРНАЯ КОМПЛЕКТАЦИЯ M60i:
+
+Доводчики дверей
+
+Салон BMW INDIVIDUAL
+
+Адаптивная LED оптика
+
+Литые диски R22
+
+Проекция
+
+Память сидений
+
+Массаж
+
+Премиальная акустика Bowers&amp;Wilkins
+
+4-ех зонный климат-контроль
+
+Люк, панорамная крыша SKY LOUNGE
+
+AppleCarPlay
+
+Камеры 360
+
+Отслеживание слепых зон
+
+И многое другое!
+
+АВТОМОБИЛЬ ПРИВЕЗЕН В РОССИЮ НОВЫМ ИЗ КОРЕИ в Ноябре 2023г!
+
+НАЧАЛО ЭКСПЛУАТАЦИИ Июнь 2024г., Красноярский край.
+
+ПО ФАКТУ ОДИН ВЛАДЕЛЕЦ (первая регистрация номинальная)!
+
+ПОДТВЕРЖДЁННЫЙ МИНИАТЮРНЫЙ ПРОБЕГ, ВСЕГО 20 368 км!
+
+ДИЛЕРСКОЕ ОБСЛУЖИВАНИЕ!
+
+КУЗОВ В ЗАВОДСКОМ ОКРАСЕ!!!
+
+ПОЛНОСТЬЮ ОКЛЕЕН СЕРОЙ МАТОВОЙ ПЛЁНКОЙ!
+
+ЗЕЛЁНАЯ ИСТОРИЯ АВТО:
+
+БЕЗ ДТП, БЕЗ СТРАХОВЫХ ВЫПЛАТ, БЕЗ ПОДСЧЁТОВ КУЗОВНЫХ РАБОТ!
+
+САЛОН КАК НОВЫЙ!
+
+ПОЛНЫЙ КОМПЛЕКТ КЛЮЧЕЙ ЗАЖИГАНИЯ, 2шт.
+
+МЕНЮ ПОЛНОСТЬЮ РУСИФИЦИРОВАНО!
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет, так и при покупке в автокредит.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование
+
+7. ✅Комиссия (реализация Вашего автомобиля по вашей цене).
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>13500000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/5rTL4EEuSlh1hSnooVuObJxEs5iLcErP9RBQtUz2jfg/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg0OTA0LzFjYzI2OGZjYmNhMzAyMmQ1MWNhY2ZkYjY0ODYyNTBjLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/WYQMb5evPrb836BuWKoG6lEvag8nmi-6FdVoSEnrrvA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg0OTA1L2JiMTU3NTYwZDFhMmRmNmZlM2JmZmVmMTA4NGNlZjMyLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/wMFZzfGPExhZtvtjoJkIey87FIWWMrfAu2zu4IMp9hE/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3Mjg0OTA2Lzg5YmE2Mzg2YTI1ZTViNDU4OWRkYzY2OGNmZGQyYzc3LmpwZw.jpg</picture>
+        <param name="Год выпуска">2023</param>
+        <param name="Пробег, км">20368</param>
+      </offer>
+      <offer id="ZFF02RPL7P0287461" available="true">
+        <name>Ferrari Portofino 2022 г. (желтый)</name>
+        <description>Год выпуска: 2022
+Пробег: 7 322 км
+Двигатель: 3.9 л, 620 л.с., Бензин
+КПП: Робот
+Привод: Задний
+Кузов: Кабриолет
+Цвет: Желтый
+Владельцев по ПТС: 1
+VIN: ZFF02RPL7P0287461
+
+FERRARI PORTOFINO M
+
+ЭКСКЛЮЗИВНЫЙ ИТАЛЬЯНСКИЙ КАБРИОЛЕТ В МОСКВЕ!
+
+СОСТОЯНИЕ НОВОГО АВТО!
+
+РОСКОШНЫЙ И НЕПОВТОРИМЫЙ ДИЗАЙН!
+
+ДЕРЗКИЙ И СТИЛЬНЫЙ, РАЗГОН ДО ПЕРВОЙ СОТНИ - 3.45 СЕКУНД!
+
+ПАРАЛЛЕЛЬНЫЙ ИМПОРТ ИЗ КОРЕИ!
+
+В РОССИИ ВЫ БУДЕТЕ ПЕРВЫМ ВЛАДЕЛЬЦЕМ!
+
+КУЗОВ ПОЛНОСТЬЮ В ЗАВОДСКОМ ОКРАСЕ!
+
+ШИКАРНЫЙ КОЖАНЫЙ САЛОН КАК НОВЫЙ!
+
+БЕЗУПРЕЧНОЕ ТЕХНИЧЕСКОЕ СОСТОЯНИЕ!
+
+ПОЛНЫЙ НАБОР КЛЮЧЕЙ ЗАЖИГАНИЯ, 2шт.
+
+ЦЕНА БЕЗ НДС!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>24090000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/FwoMkhV0yrszsEzJE6nM7Nn_10vm4S9qzq-KfX6GbL0/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyODc5LzA0YWQ2YTNjNjU0NTUyNTZiZTU5ZDMzMWY1MTdkMTBkLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/zzL51aAvjZAhiDkKETB_ZJWFHA5AeJ1Tz_Mnj-IolLc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyODgwL2Q5ZTdiOWIzMDU4MmVhYjdiNWNlYmJjYjA4ZTU5NGU3LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/mHNbMhVVHDj2aKTfq7PZS7X5VcpT-9HPVYjOug4dlcU/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyODgxLzNkNDNmMWZkOGVmYmRmNzk0YTYyOTVjZDMxYWVhNTliLmpwZw.jpg</picture>
+        <param name="Год выпуска">2022</param>
+        <param name="Пробег, км">7322</param>
+      </offer>
+      <offer id="SCAXZ0105NU211480" available="true">
+        <name>Rolls-Royce Wraith 2022 г. (черный)</name>
+        <description>Год выпуска: 2022
+Пробег: 6 801 км
+Двигатель: 6.6 л, 632 л.с., Бензин
+КПП: АКПП
+Привод: Задний
+Кузов: Купе
+Цвет: Черный
+Владельцев по ПТС: 2
+VIN: SCAXZ0105NU211480
+
+Rolls-Royce Wraith — это роскошное купэ, которое отличается шикарным интерьером, мощным двигателем и акцентом на комфорт, классический вид и современные технологии!
+
+V-12 , 6.6 (624 л.с)
+
+ОРИГИНАЛЬНЫЙ ПРОБЕГ, ВСЕГО 6 801 км!
+
+СОСТОЯНИЕ БЛИЗКОЕ К НОВОМУ!
+
+КУЗОВ ПОЛНОСТЬЮ В ЗАВОДСКОМ ОКРАСЕ!
+
+Без ДТП и страховых выплат!
+
+ПОЛНЫЙ КОМПЛЕКТ КЛЮЧЕЙ ЗАЖИГАНИЯ, 2шт!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>49990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/HdENVDWKQG8pegdh4hbHH8pPkjJGOoCyPmGV34Fm3zQ/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyODQyL2Y1N2MzYmU3NGY4NmVkMmM3MjlmNjUzOGFmN2NlMzI0LmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/6jzGXU2gWv6tnk-XNl6Y5ozxCkgY_6kmOgKWTdopgyA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyODQzL2M5YWQyNmFhYmIzNTJkZjEzOWM2M2Q2ZDBlNTdjM2ZhLmpwZw.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/znaDO5jnnvyAsu0F2FwKN1zhUwStFl_RJkPehHNllLQ/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4OTIyODQ0L2YwMDM1MGNiZDVjYzBmZmM2NzYxMzA1NGQwMGJjN2U2LmpwZw.jpg</picture>
+        <param name="Год выпуска">2022</param>
+        <param name="Пробег, км">6801</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
