@@ -1,0 +1,38 @@
+# Положите этот файл в репозиторий по пути:  .github/workflows/update-yml.yml
+name: update-yml
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # каждые 3 часа (время в UTC)
+  workflow_dispatch:         # + кнопка ручного запуска во вкладке Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-yml
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Установить зависимости
+        run: pip install requests
+
+      - name: Собрать galeon.yml
+        run: python make_yml.py
+
+      - name: Закоммитить, если что-то изменилось
+        run: |
+          git config user.name "yml-bot"
+          git config user.email "yml-bot@users.noreply.github.com"
+          git add galeon.yml yml_state.json
+          git diff --cached --quiet || git commit -m "update yml $(date -u +'%Y-%m-%d %H:%M')"
+          git push
