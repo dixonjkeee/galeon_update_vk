@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-22 19:08">
+<yml_catalog date="2026-11-22 21:36">
   <shop>
     <name>Галеон Авто</name>
     <company>Галеон Авто</company>
@@ -8,6 +8,7 @@
     </currencies>
     <categories>
       <category id="1">Автомобили с пробегом</category>
+      <category id="2">Автомобили новые</category>
     </categories>
     <offers>
       <offer id="WBA5V51010FH32184" available="true">
@@ -275,7 +276,7 @@ VIN: MMBJJLC10SH049615
 Тел.: +7 (499) 394-77-77</description>
         <price>4949998</price>
         <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
         <picture>https://imgproxy-v2.tradedealer.ru/a2yIztC3UMvt2OsZnYL_uFvIXY_FDwgeVjiT6s9U8Sk/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTcxMDU1L2MwM2U0YjI4YzdhYmFhYTRkYWU1ZWE3ZDAyMTUwMTc4LmpwZw.jpg</picture>
         <picture>https://imgproxy-v2.tradedealer.ru/pfYCuyhPouOBd0Qip3CnzjeVu7U-k3dXCTjasfU8hEE/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTcxMDU2LzkyNTZjMDI2NTg3NmY0ZGI0M2NkNjE1NGI2NjQ5MWUwLmpwZw.jpg</picture>
         <picture>https://imgproxy-v2.tradedealer.ru/5OrOjsQwgYu4a0l6dK5-ZmsIUt3GfCfh9SjUHLf1pZw/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MTcxMDU3Lzc3ZTFmODRkZGUwNTQzNjUwZTUwZDdlMGJlOTJlYmE0LmpwZw.jpg</picture>
@@ -632,7 +633,7 @@ VIN: W1KLF4HB0RA031514
 Тел.: +7 (499) 394-77-77</description>
         <price>7550000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
         <picture>https://imgproxy-v2.tradedealer.ru/Fu5Tw4YchIzTgxXdWxSaw18fKXZLGsRXu6oX2ptNuFA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1NzM1OS9kOWRmNjMzMTUzMzcyNDg2N2IwMGQ0OWY1OTEzN2YwMC5qcGc.jpg</picture>
         <picture>https://imgproxy-v2.tradedealer.ru/m4OsGQCVIZstddwZISWWO-WoBcbijdxMl-tOeR5BTLg/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1NzM2MC9jYjViMmM3YThkMmE3YjlmZDIzZjc3NjNlNWM0MmMxZS5qcGc.jpg</picture>
         <picture>https://imgproxy-v2.tradedealer.ru/W4Qv0rDdTw636IhWTGeURvrlX0ljBBYCrJJoCGhbzy4/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwMzQ1NzM2MS85ZTk3NWQ5MjY5MzNlNjQzNjk3Y2QyZDc5MWJjODAxMy5qcGc.jpg</picture>
@@ -1123,7 +1124,7 @@ Bluetooth
 Тел.: +7 (499) 394-77-77</description>
         <price>9700000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
         <picture>https://imgproxy-v2.tradedealer.ru/UNjuJbejAK1BhUv74zr1LG66ojN5bGtT-f44nzSdTo4/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk3MjcyNDU0LzI0MmI5YzU1NTQwYmExNmY3MjBkYmU4MWUzYzVlNTgxLmpwZw.jpg</picture>
         <picture>https://imgproxy-v2.tradedealer.ru/oEz3KmyM4YyllsLrZvMDDQNM8kl310b0P2PL9VwagmQ/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzg2NjI4NTgzLzNjN2RkNzZmNjc3YjgzYTUzOGIzYTVkYTZkY2E0OTkxLmpwZw.jpg</picture>
         <picture>https://imgproxy-v2.tradedealer.ru/ZrpbSkAE9I4r-arc3cJPfsOZBMhBtV_H3vU-GzInqws/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzg2NjI4NTg0L2MzNWQ0YWQ2OGIzM2Q4M2FhNzFmYTAxMDljZjZmYWNkLmpwZw.jpg</picture>
@@ -1312,7 +1313,7 @@ VIN: WBACY810809K69973
 Тел.: +7 (499) 394-77-77</description>
         <price>10700000</price>
         <currencyId>RUR</currencyId>
-        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
         <picture>https://imgproxy-v2.tradedealer.ru/vczPOH1cRrLEjuxug9CVl9HyGCEK2SE4gKnqYfLpPTo/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM2MjU2L2E1ZWRjMDc3Y2I5MWNkZmEyNzYxODI1ZWQ2MTE3NjJjLmpwZw.jpg</picture>
         <picture>https://imgproxy-v2.tradedealer.ru/-VlxSZzcyegSddYDs9-b8l571UW-mOM7jhbr5nH280Q/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM2MjU3L2QyODM3Zjg2MzEzOTgzZWNmYmFmNzkzNjQxODNlZTFkLmpwZw.jpg</picture>
         <picture>https://imgproxy-v2.tradedealer.ru/jf9uzF_v5bE0UV-F2OxvdweOq96GTnak7k-1RTxzxYc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzk4MDM2MjU4LzA5ZTY0YmJkNzZmODY5ZGRlMDdlM2VkMjdiMjNmZDNiLmpwZw.jpg</picture>
