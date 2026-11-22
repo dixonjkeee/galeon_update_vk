@@ -19,6 +19,7 @@
   python3 galeon_vk_sync.py                # выполнить
 """
 import argparse
+import base64
 import hashlib
 import html
 import json
@@ -27,6 +28,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 
@@ -169,12 +171,29 @@ def build_fields(c):
     }
 
 
+def original_from_imgproxy(url):
+    """Ссылка imgproxy содержит адрес исходного файла в base64 (последний сегмент пути)."""
+    try:
+        seg = urlparse(url).path.rsplit("/", 1)[-1].rsplit(".", 1)[0]
+        seg += "=" * (-len(seg) % 4)
+        decoded = base64.urlsafe_b64decode(seg).decode("utf-8")
+        return decoded if decoded.startswith("http") else None
+    except Exception:
+        return None
+
+
 def photo_urls(c):
-    large = ((c.get("sizesPhotos") or {}).get("large")) or []
-    if not large:
+    """До MAX_PHOTOS фото: large (953x714), а недостающие - исходники из списка small."""
+    sizes = c.get("sizesPhotos") or {}
+    large = list(sizes.get("large") or [])
+    small = list(sizes.get("small") or [])
+    urls = list(large)
+    for u in small[len(large):]:
+        urls.append(original_from_imgproxy(u) or u)
+    if not urls:
         main = (c.get("photos") or {}).get("main")
-        large = [main] if main else []
-    return large[:MAX_PHOTOS]
+        urls = [main] if main else []
+    return urls[:MAX_PHOTOS]
 
 
 def digest(obj):
