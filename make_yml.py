@@ -26,8 +26,9 @@ from galeon_vk_sync import build_fields, fetch_site, photo_urls
 
 OUT = Path(__file__).with_name("galeon.yml")
 STATE = Path(__file__).with_name("yml_state.json")
-CATEGORY_ID = "1"
-CATEGORY_NAME = "Автомобили с пробегом"
+CAT_USED = ("1", "Автомобили с пробегом")  # пробег больше NEW_MAX_RUN
+CAT_NEW = ("2", "Автомобили новые")        # пробег не больше NEW_MAX_RUN
+NEW_MAX_RUN = 5000
 SOLD_KEEP_DAYS = 30
 
 BAD_XML = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
@@ -49,6 +50,15 @@ def offer_data(c):
     }
 
 
+def category_id(o):
+    """2 (новые) при пробеге <= NEW_MAX_RUN, иначе 1 (с пробегом). Нет данных о пробеге -> с пробегом."""
+    try:
+        run = float(o.get("run"))
+    except (TypeError, ValueError):
+        return CAT_USED[0]
+    return CAT_NEW[0] if run <= NEW_MAX_RUN else CAT_USED[0]
+
+
 def build_yml(items):
     """items: {vin: {"offer": {...}, "available": bool, ...}}"""
     root = ET.Element("yml_catalog", date=datetime.now().strftime("%Y-%m-%d %H:%M"))
@@ -58,7 +68,8 @@ def build_yml(items):
     cur = ET.SubElement(shop, "currencies")
     ET.SubElement(cur, "currency", id="RUR", rate="1")
     cats = ET.SubElement(shop, "categories")
-    ET.SubElement(cats, "category", id=CATEGORY_ID).text = CATEGORY_NAME
+    for cid, cname in (CAT_USED, CAT_NEW):
+        ET.SubElement(cats, "category", id=cid).text = cname
     offers = ET.SubElement(shop, "offers")
 
     for vin, it in items.items():
@@ -68,7 +79,7 @@ def build_yml(items):
         ET.SubElement(el, "description").text = clean(o["description"])
         ET.SubElement(el, "price").text = str(o["price"])
         ET.SubElement(el, "currencyId").text = "RUR"
-        ET.SubElement(el, "categoryId").text = CATEGORY_ID
+        ET.SubElement(el, "categoryId").text = category_id(o)
         for p in o["pics"]:
             ET.SubElement(el, "picture").text = p
         # у ВК лимит: не более 2 свойств (param) на товар
