@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-11-23 11:54">
+<yml_catalog date="2026-11-23 23:28">
   <shop>
     <name>Галеон Авто</name>
     <company>Галеон Авто</company>
@@ -210,6 +210,76 @@ VIN: SALWA2BK4JA190794
         <param name="Год выпуска">2018</param>
         <param name="Пробег, км">175258</param>
       </offer>
+      <offer id="SALEA7BN3M2043903" available="true">
+        <name>Land Rover Defender 2021 г. (белый)</name>
+        <description>Год выпуска: 2021
+Пробег: 76 161 км
+Двигатель: 2 л, 200 л.с., Дизель
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Белый
+Владельцев по ПТС: 2
+VIN: SALEA7BN3M2043903
+
+НЕПРЕВЗОЙДЕННЫЙ ВНЕДОРОЖНИК ПРЕМИУМ КЛАССА LR DEFENDER!
+
+ЭКОНОМИЧНЫЙ ДИЗЕЛЬНЫЙ ДВИГАТЕЛЬ С ДОНАЛОГОВОЙ МОЩНОСТЬЮ 200 л.с!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ 8-ми СТУПЕНЧАТЫЙ АВТОМАТ!
+
+РЕГУЛИРУЕМАЯ ПНЕВМОПОДВЕСКА С ВЫБОРОМ РЕЖИМОВ ЭКСПЛУАТАЦИИ!
+
+Имеются ПОНИЖАЮЩАЯ ПЕРЕДАЧА, БЛОКИРОВКА ЗАДНЕГО И МЕЖОСЕВОГО ДИФФЕРЕНЦИАЛА!
+
+Приобретался НОВЫМ у официального дилера в Иркутске!
+
+КУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ, практически весь В ЗАВОДСКОМ ОКРАСЕ (только задняя правая дверь имеет косметический окрас).
+
+ПЕРЕДНЯЯ ЧАСТЬ В БРОНЕПЛЁНКЕ!
+
+7 МЕСТ!
+
+РОДНОЙ ПРОБЕГ!
+
+КОМПЛЕКТАЦИЯ SE, в которую входят: МЯГКАЯ ПАНОРАМНАЯ КРЫША, бесключевой доступ, кнопка START-STOP, подогрев сидений первого и второго ряда, кожаный мультируль с подогревом, подогрев лобового стекла, подогрев заднего стекла и зеркал, мультимедиа с сенсорным экраном, навигацией, громкой связью Bluetooth, USB, КАМЕРЫ КРУГОВОГО ОБЗОРА, датчики парковки перед/зад, раздельный климат-контроль, круиз-контроль, система УДЕРЖАНИЯ В ПОЛОСЕ ДВИЖЕНИЯ, датчики света и дождя, светодиодное головное освещение, светодиодные ходовые огни, омыватели фар, предпусковой подогреватель WEBASTO с пультом дистанционного управления, ВЫДВИЖНЫЕ ПОРОГИ, рейлинги, черные литые диски R19 и т.д.
+
+ПОЛНЫЙ НАБОР КЛЮЧЕЙ ЗАЖИГАНИЯ, 2 шт!
+
+Запасное колесо, домкрат, инструменты на месте.
+
+Цена указана без НДС.
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана, как за наличный расчет, так и при покупке в автокредит.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование
+
+7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>4400000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/BcThcej6zlV06xF0KlzmhJzvhLieZ-lfiD8G0SHktN4/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjgyMS82MmViMGJkMDk5ZDQ1N2RmY2NjMzFlZDI0MmY3N2U3NC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/OyEJ8kBbJX9oVmCqlJ1GpPD0bV6OsoQDWiTsMrLHZp8/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjgyMi9jZDFkMmQ3ZDIwODdkMGM3ZTE5ZWM5ZWRjMTFiNmQ2MC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/j0296f2bE2EiV7QbsTjwl9iXP60J-d44oxT8h8IhQLA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjgyMy9kY2YxZWEyOGRiMGQ4YjVkM2IwZTI3OTIyZDA3MmM5NC5qcGc.jpg</picture>
+        <picture>https://tradeins.space/uploads/catalog_object_image/105102824/c147f4803412810c6c215ed62f0c01df.jpg</picture>
+        <picture>https://tradeins.space/uploads/catalog_object_image/105102825/c39867627e78ec5a2160580d9431204b.jpg</picture>
+        <param name="Год выпуска">2021</param>
+        <param name="Пробег, км">76161</param>
+      </offer>
       <offer id="MMBJJLC10SH049615" available="true">
         <name>Mitsubishi L200 2025 г. (белый)</name>
         <description>Год выпуска: 2025
@@ -284,6 +354,162 @@ VIN: MMBJJLC10SH049615
         <picture>https://tradeins.space/uploads/catalog_object_image/97171059/05184c59067cfca79911a649592ede22.jpg</picture>
         <param name="Год выпуска">2025</param>
         <param name="Пробег, км">49</param>
+      </offer>
+      <offer id="WDD2173851A007489" available="true">
+        <name>Mercedes-Benz S-Класс 2015 г. (белый)</name>
+        <description>Год выпуска: 2015
+Пробег: 116 249 км
+Двигатель: 4.7 л, 455 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Купе
+Цвет: Белый
+Владельцев по ПТС: 9
+VIN: WDD2173851A007489
+
+РОСКОШНЫЙ КУПЕ ПРЕДСТАВИТЕЛЬСКОГО КЛАССА Mercedes-Benz S 500 4MATIC
+
+БЕНЗИНОВЫЙ ДВИГАТЕЛЬ мощностью 456 л.с!
+
+Коробка передач - КЛАССИЧЕСКИЙ 7-ми ступенчатый АВТОМАТ!
+
+ПОЛНЫЙ ПРИВОД, ПНЕВМОПОДВЕСКА!
+
+ПОДТВЕРЖДЁННЫЙ ПРОБЕГ!
+
+КУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ, В ЗАВОДСКОМ ОКРАСЕ!!!
+
+ПОЛНОСТЬЮ В БЕЛОЙ МАТОВОЙ ПЛЁНКЕ!
+
+ШИКАРНАЯ КОМПЛЕКТАЦИЯ:
+
+КАМЕРЫ КРУГОВОГО ОБЗОРА
+ДОВОДЧИКИ ДВЕРЕЙ
+КОЖА - ЧЕРНАЯ / АНТРАЦИТ
+АКТИВНЫЙ ПАРКОВОЧНЫЙ АССИСТЕНТ
+АКТИВНЫЙ АССИСТЕНТ КОНТРОЛЯ "МЕРТВОЙ ЗОНЫ"
+АКТИВНАЯ СИСТЕМА УДЕРЖАНИЯ ПОЛОСЫ ДВИЖЕНИЯ (FAP)
+ВНУТРЕННЕЕ И НАРУЖНОЕ ЗЕРКАЛО С АВТОМАТ.ЗАТЕМН.
+СИСТЕМА ПРЕДУПРЕЖДЕНИЯ И ЗАЩИТЫ ОТ НАЕЗДА СЗАДИ
+СИСТЕМА ЭКСТР. ТОРМОЖЕНИЯ С РАСШИР. ФУНКЦ. (BAS+)
+АВТОНОМ.ТОРМОЗН.ДЕЙСТВИЕ/ПРЕДУПР.ДЛЯ ЗАЩИТЫ ПЕШЕХ.
+ПАКЕТ ПАМЯТИ (ВОД.СИДЕНЬЕ, РУЛ.КОЛОНКА И ЗЕРКАЛО)
+СПОРТ. КОЖАНОЕ РУЛЕВОЕ КОЛЕСО С ДЕКОРАТ. ВСТАВКОЙ
+КОНДИЦИОНИРОВАНИЕ СИДЕНИЙ СПЕРЕДИ
+СИДЕНЬЕ С ДИНАМИЧЕСКОЙ ПОДДЕРЖКОЙ СЛЕВА И СПРАВА
+СЕНСОРНАЯ ПАНЕЛЬ С ПОВОРОТНО-НАЖИМНЫМ РЕГУЛЯТОРОМ
+ФРОНТАЛЬНАЯ ИНДИКАЦИЯ (ДИСПЛЕЙ НА ВЕТРОВОМ СТЕКЛЕ)
+СИСТЕМА ПРЕДУПРЕЖДЕНИЯ О ПАДЕНИИ ДАВЛЕНИЯ В ШИНАХ
+РАСПОЗНАВАНИЕ ДОРОЖНЫХ ЗНАКОВ
+ВНУТРЕННЯЯ ОБЛИЦОВКА КРЫШИ, ТКАНЬ ЧЕРНАЯ
+СИСТЕМА АВТОМАТИЧЕСКОГО КЛИМАТ-КОНТРОЛЯ
+СВЕТОДИОД.ФАРА С ДИНАМИЧ.РЕГУЛ.ДЛЯ ПРАВОСТОР.ДВИЖ.
+AMG ДИСКИ СО СПИЦАМИ 21" С РАЗНЫМИ ШИНАМИ
+ПЕР.СПОЙЛЕР И НАКЛАДКИ ПОРОГОВ AMG
+АЛМАЗНО-БЕЛЫЙ - КРАСКА METALLIC
+ОТДЕЛЬНАЯ БЛОКИРОВКА КРЫШКИ БАГАЖНИКА
+KEYLESS - GO
+ПОДОГРЕВ СИДЕНИЙ ПОВЫШ. КОМФОРТНОСТИ (ПЕРЕДН.)
+СПОРТ-ПАКЕТ AMG
+ДОП. УСТАНОВКА ПРОГР. ОБЕСПЕЧ. ДЛЯ КОРОБКИ ПЕРЕДАЧ
+НЕПОСРЕДСТВЕНН. ПУСК / ФУНКЦИЯ ПУСКА/ОСТАНОВКИ ECO
+ДЕКОРАТ. ЭЛЕМЕНТЫ ИЗ ДРЕВЕСИНЫ ЯСЕНЯ
+АДАПТИВНЫЙ СТОП-СИГНАЛ МИГАЮЩИЙ и т.д.
+Автомобиль продается на зимних фрикционных шинах.
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана, как за наличный расчет, так и при покупке в автокредит.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование
+
+7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Добро пожаловать в Галеон Авто
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>4990000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/2-FaICc5u443tkcHlb2J9lqzgf7Ff2656PY-ba3XIQk/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjg2MC8zNTk2ZjAzZGFiYTVmMmVmZmFkNzIwMWRkZjkzNDRiYi5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/ycNdlPYqLxGdxzcZCPeJNeYAIdRcAjqQjXWLUHL3fSM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjg2MS80Njg2YTIyMzZhNzIxMDlmY2UyMTQ2ZjgxNTliN2E3MC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/d6_1nNbMku2D1GSDUGxcrU1TzUjZGULmF6sCqbeojho/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjg2Mi9jY2FkM2Q1MmQ0NWM5MjM5N2E1MmVlZjAzMzU3YzdkOC5qcGc.jpg</picture>
+        <picture>https://tradeins.space/uploads/catalog_object_image/105102863/74b311f93e8254f269ddce7b77ea926d.jpg</picture>
+        <picture>https://tradeins.space/uploads/catalog_object_image/105102864/bc183827bf370e8a0a66a1bbfc4a4f42.jpg</picture>
+        <param name="Год выпуска">2015</param>
+        <param name="Пробег, км">116249</param>
+      </offer>
+      <offer id="WP1ZZZ9YZKDA39613" available="true">
+        <name>Porsche Cayenne 2019 г. (синий)</name>
+        <description>Год выпуска: 2019
+Пробег: 196 000 км
+Двигатель: 3 л, 340 л.с., Бензин
+КПП: АКПП
+Привод: Полный
+Кузов: Внедорожник
+Цвет: Синий
+Владельцев по ПТС: 2
+VIN: WP1ZZZ9YZKDA39613
+
+ДИНАМИЧНЫЙ КРОССОВЕР ПРЕМИУМ СЕГМЕНТА!
+
+БЕНЗИНОВЫЙ ДВИГАТЕЛЬ МОЩНОСТЬЮ 340 л.с!
+
+КОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ 8-ми ступенчатый АВТОМАТ!
+
+ПОСТОЯННЫЙ ПОЛНЫЙ ПРИВОД С ВОЗМОЖНОСТЬЮ ВЫБОРА УСЛОВИЙ ЭКСПЛУАТАЦИИ!
+
+БЛОКИРОВКА МЕЖОСЕВОГО И ЗАДНЕГО ДИФФЕРЕНЦИАЛОВ!
+
+РЕГУЛИРУЕМАЯ ПНЕВМОПОДВЕСКА!
+
+АВТОМОБИЛЬ ПРИОБРЕТАЛСЯ НОВЫМ У ДИЛЕРА.
+
+1. ✅Техническая и юридическая чистота сделки.
+
+2. ✅ Цена на данный автомобиль указана как за наличный расчет, так и при покупке в автокредит.
+
+3. ✅Трейд-ин с максимальной выгодой.
+
+4. ✅Автокредитование.
+
+5. ✅Лизинг.
+
+6. ✅Автострахование ( Ведущие страховые компании:
+
+Ингосстрах, АльфаСтрахование, А24, МультиСервисГарант).
+
+7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).
+
+8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.
+
+Автомобиль находится в Москве, в автосалоне.
+
+Звоните, будем рады ответить на ваши вопросы и организовать просмотр!
+
+Галеон Авто
+Москва, пр-кт Ленинский, д. 123В
+Тел.: +7 (499) 394-77-77</description>
+        <price>5100000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://imgproxy-v2.tradedealer.ru/LsSakNtxkkNjcYV6T_OIiZ2k5kjzTfpyxbULN3S2axc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjc4Ny85MzEwNWMyOTIxMzU0N2FlZTgwNzRmYTYzZWU1YjBmOC5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/vBvtF4gWMwB4zg6mKA-1UJD6DDq_Qees16enWrjeSmY/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjc4OC9hZDZkMjU0NTJjYmUyN2JmMmY3YjExZDc0ZjY2NjJkZi5qcGc.jpg</picture>
+        <picture>https://imgproxy-v2.tradedealer.ru/l5JZaheSoPj-4LQ4Yh5ZGkLh4Lr2X_gczcW11dxl-Xc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjc4OS9lN2IyM2M5YmNkY2UwMGIwZjFmMTllOGFjZTYyNGM5Mi5qcGc.jpg</picture>
+        <picture>https://tradeins.space/uploads/catalog_object_image/105102790/96084d17350dbe349cc891c319d2dbd6.jpg</picture>
+        <picture>https://tradeins.space/uploads/catalog_object_image/105102791/73bf7f5ff18c3af46917c3218cdac851.jpg</picture>
+        <param name="Год выпуска">2019</param>
+        <param name="Пробег, км">196000</param>
       </offer>
       <offer id="SALGA2BK9KA535260" available="true">
         <name>Land Rover Range Rover 2018 г. (красный)</name>

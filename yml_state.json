@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:54:08",
+ "updated": "2026-11-23T23:28:49",
  "cars": {
   "WBA5V51010FH32184": {
    "offer": {
@@ -55,6 +55,24 @@
    "available": true,
    "sold_at": null
   },
+  "SALEA7BN3M2043903": {
+   "offer": {
+    "name": "Land Rover Defender 2021 г. (белый)",
+    "description": "Год выпуска: 2021\nПробег: 76 161 км\nДвигатель: 2 л, 200 л.с., Дизель\nКПП: АКПП\nПривод: Полный\nКузов: Внедорожник\nЦвет: Белый\nВладельцев по ПТС: 2\nVIN: SALEA7BN3M2043903\n\nНЕПРЕВЗОЙДЕННЫЙ ВНЕДОРОЖНИК ПРЕМИУМ КЛАССА LR DEFENDER!\n\nЭКОНОМИЧНЫЙ ДИЗЕЛЬНЫЙ ДВИГАТЕЛЬ С ДОНАЛОГОВОЙ МОЩНОСТЬЮ 200 л.с!\n\nКОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ 8-ми СТУПЕНЧАТЫЙ АВТОМАТ!\n\nРЕГУЛИРУЕМАЯ ПНЕВМОПОДВЕСКА С ВЫБОРОМ РЕЖИМОВ ЭКСПЛУАТАЦИИ!\n\nИмеются ПОНИЖАЮЩАЯ ПЕРЕДАЧА, БЛОКИРОВКА ЗАДНЕГО И МЕЖОСЕВОГО ДИФФЕРЕНЦИАЛА!\n\nПриобретался НОВЫМ у официального дилера в Иркутске!\n\nКУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ, практически весь В ЗАВОДСКОМ ОКРАСЕ (только задняя правая дверь имеет косметический окрас).\n\nПЕРЕДНЯЯ ЧАСТЬ В БРОНЕПЛЁНКЕ!\n\n7 МЕСТ!\n\nРОДНОЙ ПРОБЕГ!\n\nКОМПЛЕКТАЦИЯ SE, в которую входят: МЯГКАЯ ПАНОРАМНАЯ КРЫША, бесключевой доступ, кнопка START-STOP, подогрев сидений первого и второго ряда, кожаный мультируль с подогревом, подогрев лобового стекла, подогрев заднего стекла и зеркал, мультимедиа с сенсорным экраном, навигацией, громкой связью Bluetooth, USB, КАМЕРЫ КРУГОВОГО ОБЗОРА, датчики парковки перед/зад, раздельный климат-контроль, круиз-контроль, система УДЕРЖАНИЯ В ПОЛОСЕ ДВИЖЕНИЯ, датчики света и дождя, светодиодное головное освещение, светодиодные ходовые огни, омыватели фар, предпусковой подогреватель WEBASTO с пультом дистанционного управления, ВЫДВИЖНЫЕ ПОРОГИ, рейлинги, черные литые диски R19 и т.д.\n\nПОЛНЫЙ НАБОР КЛЮЧЕЙ ЗАЖИГАНИЯ, 2 шт!\n\nЗапасное колесо, домкрат, инструменты на месте.\n\nЦена указана без НДС.\n\n1. ✅Техническая и юридическая чистота сделки.\n\n2. ✅ Цена на данный автомобиль указана, как за наличный расчет, так и при покупке в автокредит.\n\n3. ✅Трейд-ин с максимальной выгодой.\n\n4. ✅Автокредитование.\n\n5. ✅Лизинг.\n\n6. ✅Автострахование\n\n7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).\n\n8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.\n\nГалеон Авто\nМосква, пр-кт Ленинский, д. 123В\nТел.: +7 (499) 394-77-77",
+    "price": 4400000,
+    "pics": [
+     "https://imgproxy-v2.tradedealer.ru/BcThcej6zlV06xF0KlzmhJzvhLieZ-lfiD8G0SHktN4/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjgyMS82MmViMGJkMDk5ZDQ1N2RmY2NjMzFlZDI0MmY3N2U3NC5qcGc.jpg",
+     "https://imgproxy-v2.tradedealer.ru/OyEJ8kBbJX9oVmCqlJ1GpPD0bV6OsoQDWiTsMrLHZp8/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjgyMi9jZDFkMmQ3ZDIwODdkMGM3ZTE5ZWM5ZWRjMTFiNmQ2MC5qcGc.jpg",
+     "https://imgproxy-v2.tradedealer.ru/j0296f2bE2EiV7QbsTjwl9iXP60J-d44oxT8h8IhQLA/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjgyMy9kY2YxZWEyOGRiMGQ4YjVkM2IwZTI3OTIyZDA3MmM5NC5qcGc.jpg",
+     "https://tradeins.space/uploads/catalog_object_image/105102824/c147f4803412810c6c215ed62f0c01df.jpg",
+     "https://tradeins.space/uploads/catalog_object_image/105102825/c39867627e78ec5a2160580d9431204b.jpg"
+    ],
+    "year": 2021,
+    "run": 76161
+   },
+   "available": true,
+   "sold_at": null
+  },
   "MMBJJLC10SH049615": {
    "offer": {
     "name": "Mitsubishi L200 2025 г. (белый)",
@@ -69,6 +87,42 @@
     ],
     "year": 2025,
     "run": 49
+   },
+   "available": true,
+   "sold_at": null
+  },
+  "WDD2173851A007489": {
+   "offer": {
+    "name": "Mercedes-Benz S-Класс 2015 г. (белый)",
+    "description": "Год выпуска: 2015\nПробег: 116 249 км\nДвигатель: 4.7 л, 455 л.с., Бензин\nКПП: АКПП\nПривод: Полный\nКузов: Купе\nЦвет: Белый\nВладельцев по ПТС: 9\nVIN: WDD2173851A007489\n\nРОСКОШНЫЙ КУПЕ ПРЕДСТАВИТЕЛЬСКОГО КЛАССА Mercedes-Benz S 500 4MATIC\n\nБЕНЗИНОВЫЙ ДВИГАТЕЛЬ мощностью 456 л.с!\n\nКоробка передач - КЛАССИЧЕСКИЙ 7-ми ступенчатый АВТОМАТ!\n\nПОЛНЫЙ ПРИВОД, ПНЕВМОПОДВЕСКА!\n\nПОДТВЕРЖДЁННЫЙ ПРОБЕГ!\n\nКУЗОВ В ОТЛИЧНОМ СОСТОЯНИИ, В ЗАВОДСКОМ ОКРАСЕ!!!\n\nПОЛНОСТЬЮ В БЕЛОЙ МАТОВОЙ ПЛЁНКЕ!\n\nШИКАРНАЯ КОМПЛЕКТАЦИЯ:\n\nКАМЕРЫ КРУГОВОГО ОБЗОРА\nДОВОДЧИКИ ДВЕРЕЙ\nКОЖА - ЧЕРНАЯ / АНТРАЦИТ\nАКТИВНЫЙ ПАРКОВОЧНЫЙ АССИСТЕНТ\nАКТИВНЫЙ АССИСТЕНТ КОНТРОЛЯ \"МЕРТВОЙ ЗОНЫ\"\nАКТИВНАЯ СИСТЕМА УДЕРЖАНИЯ ПОЛОСЫ ДВИЖЕНИЯ (FAP)\nВНУТРЕННЕЕ И НАРУЖНОЕ ЗЕРКАЛО С АВТОМАТ.ЗАТЕМН.\nСИСТЕМА ПРЕДУПРЕЖДЕНИЯ И ЗАЩИТЫ ОТ НАЕЗДА СЗАДИ\nСИСТЕМА ЭКСТР. ТОРМОЖЕНИЯ С РАСШИР. ФУНКЦ. (BAS+)\nАВТОНОМ.ТОРМОЗН.ДЕЙСТВИЕ/ПРЕДУПР.ДЛЯ ЗАЩИТЫ ПЕШЕХ.\nПАКЕТ ПАМЯТИ (ВОД.СИДЕНЬЕ, РУЛ.КОЛОНКА И ЗЕРКАЛО)\nСПОРТ. КОЖАНОЕ РУЛЕВОЕ КОЛЕСО С ДЕКОРАТ. ВСТАВКОЙ\nКОНДИЦИОНИРОВАНИЕ СИДЕНИЙ СПЕРЕДИ\nСИДЕНЬЕ С ДИНАМИЧЕСКОЙ ПОДДЕРЖКОЙ СЛЕВА И СПРАВА\nСЕНСОРНАЯ ПАНЕЛЬ С ПОВОРОТНО-НАЖИМНЫМ РЕГУЛЯТОРОМ\nФРОНТАЛЬНАЯ ИНДИКАЦИЯ (ДИСПЛЕЙ НА ВЕТРОВОМ СТЕКЛЕ)\nСИСТЕМА ПРЕДУПРЕЖДЕНИЯ О ПАДЕНИИ ДАВЛЕНИЯ В ШИНАХ\nРАСПОЗНАВАНИЕ ДОРОЖНЫХ ЗНАКОВ\nВНУТРЕННЯЯ ОБЛИЦОВКА КРЫШИ, ТКАНЬ ЧЕРНАЯ\nСИСТЕМА АВТОМАТИЧЕСКОГО КЛИМАТ-КОНТРОЛЯ\nСВЕТОДИОД.ФАРА С ДИНАМИЧ.РЕГУЛ.ДЛЯ ПРАВОСТОР.ДВИЖ.\nAMG ДИСКИ СО СПИЦАМИ 21\" С РАЗНЫМИ ШИНАМИ\nПЕР.СПОЙЛЕР И НАКЛАДКИ ПОРОГОВ AMG\nАЛМАЗНО-БЕЛЫЙ - КРАСКА METALLIC\nОТДЕЛЬНАЯ БЛОКИРОВКА КРЫШКИ БАГАЖНИКА\nKEYLESS - GO\nПОДОГРЕВ СИДЕНИЙ ПОВЫШ. КОМФОРТНОСТИ (ПЕРЕДН.)\nСПОРТ-ПАКЕТ AMG\nДОП. УСТАНОВКА ПРОГР. ОБЕСПЕЧ. ДЛЯ КОРОБКИ ПЕРЕДАЧ\nНЕПОСРЕДСТВЕНН. ПУСК / ФУНКЦИЯ ПУСКА/ОСТАНОВКИ ECO\nДЕКОРАТ. ЭЛЕМЕНТЫ ИЗ ДРЕВЕСИНЫ ЯСЕНЯ\nАДАПТИВНЫЙ СТОП-СИГНАЛ МИГАЮЩИЙ и т.д.\nАвтомобиль продается на зимних фрикционных шинах.\n\n1. ✅Техническая и юридическая чистота сделки.\n\n2. ✅ Цена на данный автомобиль указана, как за наличный расчет, так и при покупке в автокредит.\n\n3. ✅Трейд-ин с максимальной выгодой.\n\n4. ✅Автокредитование.\n\n5. ✅Лизинг.\n\n6. ✅Автострахование\n\n7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).\n\n8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.\n\nДобро пожаловать в Галеон Авто\n\nГалеон Авто\nМосква, пр-кт Ленинский, д. 123В\nТел.: +7 (499) 394-77-77",
+    "price": 4990000,
+    "pics": [
+     "https://imgproxy-v2.tradedealer.ru/2-FaICc5u443tkcHlb2J9lqzgf7Ff2656PY-ba3XIQk/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjg2MC8zNTk2ZjAzZGFiYTVmMmVmZmFkNzIwMWRkZjkzNDRiYi5qcGc.jpg",
+     "https://imgproxy-v2.tradedealer.ru/ycNdlPYqLxGdxzcZCPeJNeYAIdRcAjqQjXWLUHL3fSM/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjg2MS80Njg2YTIyMzZhNzIxMDlmY2UyMTQ2ZjgxNTliN2E3MC5qcGc.jpg",
+     "https://imgproxy-v2.tradedealer.ru/d6_1nNbMku2D1GSDUGxcrU1TzUjZGULmF6sCqbeojho/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjg2Mi9jY2FkM2Q1MmQ0NWM5MjM5N2E1MmVlZjAzMzU3YzdkOC5qcGc.jpg",
+     "https://tradeins.space/uploads/catalog_object_image/105102863/74b311f93e8254f269ddce7b77ea926d.jpg",
+     "https://tradeins.space/uploads/catalog_object_image/105102864/bc183827bf370e8a0a66a1bbfc4a4f42.jpg"
+    ],
+    "year": 2015,
+    "run": 116249
+   },
+   "available": true,
+   "sold_at": null
+  },
+  "WP1ZZZ9YZKDA39613": {
+   "offer": {
+    "name": "Porsche Cayenne 2019 г. (синий)",
+    "description": "Год выпуска: 2019\nПробег: 196 000 км\nДвигатель: 3 л, 340 л.с., Бензин\nКПП: АКПП\nПривод: Полный\nКузов: Внедорожник\nЦвет: Синий\nВладельцев по ПТС: 2\nVIN: WP1ZZZ9YZKDA39613\n\nДИНАМИЧНЫЙ КРОССОВЕР ПРЕМИУМ СЕГМЕНТА!\n\nБЕНЗИНОВЫЙ ДВИГАТЕЛЬ МОЩНОСТЬЮ 340 л.с!\n\nКОРОБКА ПЕРЕДАЧ - КЛАССИЧЕСКИЙ 8-ми ступенчатый АВТОМАТ!\n\nПОСТОЯННЫЙ ПОЛНЫЙ ПРИВОД С ВОЗМОЖНОСТЬЮ ВЫБОРА УСЛОВИЙ ЭКСПЛУАТАЦИИ!\n\nБЛОКИРОВКА МЕЖОСЕВОГО И ЗАДНЕГО ДИФФЕРЕНЦИАЛОВ!\n\nРЕГУЛИРУЕМАЯ ПНЕВМОПОДВЕСКА!\n\nАВТОМОБИЛЬ ПРИОБРЕТАЛСЯ НОВЫМ У ДИЛЕРА.\n\n1. ✅Техническая и юридическая чистота сделки.\n\n2. ✅ Цена на данный автомобиль указана как за наличный расчет, так и при покупке в автокредит.\n\n3. ✅Трейд-ин с максимальной выгодой.\n\n4. ✅Автокредитование.\n\n5. ✅Лизинг.\n\n6. ✅Автострахование ( Ведущие страховые компании:\n\nИнгосстрах, АльфаСтрахование, А24, МультиСервисГарант).\n\n7. ✅Комиссия ( реализация Вашего автомобиля по вашей цене).\n\n8. ✅Выкуп Вашего автомобиля - деньги в день сделки сразу.\n\nАвтомобиль находится в Москве, в автосалоне.\n\nЗвоните, будем рады ответить на ваши вопросы и организовать просмотр!\n\nГалеон Авто\nМосква, пр-кт Ленинский, д. 123В\nТел.: +7 (499) 394-77-77",
+    "price": 5100000,
+    "pics": [
+     "https://imgproxy-v2.tradedealer.ru/LsSakNtxkkNjcYV6T_OIiZ2k5kjzTfpyxbULN3S2axc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjc4Ny85MzEwNWMyOTIxMzU0N2FlZTgwNzRmYTYzZWU1YjBmOC5qcGc.jpg",
+     "https://imgproxy-v2.tradedealer.ru/vBvtF4gWMwB4zg6mKA-1UJD6DDq_Qees16enWrjeSmY/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjc4OC9hZDZkMjU0NTJjYmUyN2JmMmY3YjExZDc0ZjY2NjJkZi5qcGc.jpg",
+     "https://imgproxy-v2.tradedealer.ru/l5JZaheSoPj-4LQ4Yh5ZGkLh4Lr2X_gczcW11dxl-Xc/rs:fill:953:714:1/g:ce/ar:1/sm:1/q:90/aHR0cHM6Ly90cmFkZWlucy5zcGFjZS91cGxvYWRzL2NhdGFsb2dfb2JqZWN0X2ltYWdlLzEwNTEwMjc4OS9lN2IyM2M5YmNkY2UwMGIwZjFmMTllOGFjZTYyNGM5Mi5qcGc.jpg",
+     "https://tradeins.space/uploads/catalog_object_image/105102790/96084d17350dbe349cc891c319d2dbd6.jpg",
+     "https://tradeins.space/uploads/catalog_object_image/105102791/73bf7f5ff18c3af46917c3218cdac851.jpg"
+    ],
+    "year": 2019,
+    "run": 196000
    },
    "available": true,
    "sold_at": null
